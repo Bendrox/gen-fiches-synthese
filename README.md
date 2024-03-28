@@ -12,7 +12,9 @@ Provisions (provisionnement...)
 Solvabilité (ratio de solvabilité, CSR...)
 Gouvernance (mandats, nouvelles nominations de dirigeants...)
 Perspectives (stratégie de développement, évolution de l'activité...)
-Modèle LLM utilisé : OPENAI
+
+
+Modèle LLM utilisé : GPT OPENAI
 
 Cloud : Microsoft Azure
 
