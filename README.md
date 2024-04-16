@@ -27,5 +27,5 @@ Résultats des travaux :
 
 Pistes d'amélioration a venir: 
 - Essayer d'autres types d'architectures.
-- Amélioration de l'extraction de données , notamment via l'exploitation des tableaux dans les rapports et les graphiques
+- Amélioration de l'extraction de données notamment via l'exploitation des tableaux dans les rapports et les graphiques. 
   
