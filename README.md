@@ -25,7 +25,7 @@ Résultats des travaux :
 - Le prompt engineering a un impact significatif sur la qualité des résultats mais aussi sur le temps de traitement du modèle et donc sur le cout des requetes.
 - Le traitement de deux rapport simultanés pour la production d'une fiche de synthèse ne permet pas d'avoir des résultat probant. Le modèle semble mélanger les informations malgré les instructions dans le prompt.
 
-Pistes de développement a venir: 
+Pistes d'amélioration a venir: 
 - Essayer d'autres types d'architectures.
 - Amélioration de l'extraction de données , notamment via l'exploitation des tableaux dans les rapports et les graphiques
   
