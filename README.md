@@ -21,7 +21,11 @@ Cloud : Microsoft Azure
 Framework: LangChain
 
 Résultats des travaux :
-
 - Les résultats produits par le modèle LLM offrent une base de travail de qualité satisfaisante et constitue une base suffisament pertinante pour permettre à un analyste d'effectuer son analyse.
 - Le prompt engineering a un impact significatif sur la qualité des résultats mais aussi sur le temps de traitement du modèle et donc sur le cout des requetes.
 - Le traitement de deux rapport simultanés pour la production d'une fiche de synthèse ne permet pas d'avoir des résultat probant. Le modèle semble mélanger les informations malgré les instructions dans le prompt.
+
+Pistes de développement a venir: 
+- Essayer d'autres types d'architectures.
+- Amélioration de l'extraction de données , notamment via l'exploitation des tableaux dans les rapports et les graphiques
+  
