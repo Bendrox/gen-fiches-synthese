@@ -1,4 +1,4 @@
-# LLM_SFCR_exploit_Langchain_Azure
+# Générateur Fiches de synthèse
 
 ## Objectif:  
 Exploiter les remises narratives réglementaire (SFCR - Rapport sur la solvabilité et la situation financière) pour produire une fiche d'analyse des organismes d'assurance structurée en plusieurs axes: 
