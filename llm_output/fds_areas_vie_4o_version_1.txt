@@ -1,0 +1,39 @@
+### Présentation de l'organisme
+
+Aréas Vie est une société d'assurance mutuelle (SAM) créée le 26 janvier 1981, régie par le Code des Assurances et soumise au contrôle de l'Autorité de Contrôle Prudentiel et de Résolution (ACPR). Son siège social est situé au 49 rue de Miromesnil, 75008 Paris. Elle exerce exclusivement en France dans les domaines de l'assurance vie, incluant l'épargne, la retraite et la prévoyance. Aréas Vie fait partie du groupe Aréas Assurances, qui inclut également Aréas Dommages. En tant qu'organisme à but non lucratif, elle ne dispose ni de capital ni d'actionnaires. La société est membre de la ROAM (Réunion des Organismes d'Assurance Mutuelle) et est souvent récompensée pour la qualité de ses produits, notamment dans les catégories capital décès, multisupports et PER individuel. Elle détient plusieurs filiales, dont Aréas Immobilier, GEMMA, AI4, FS2A, et des participations dans des SCI. Aréas Dommages réassure Aréas Vie via un traité en quote-part de 15 % sur ses produits en euros.
+
+---
+
+### Activité de l'organisme
+
+En 2024, Aréas Vie a enregistré un chiffre d'affaires brut de 118,8 millions d'euros, en baisse de 2,7 % par rapport à 2023 (122,1 millions d'euros). La répartition par activité montre une progression en prévoyance (+15,8 %, à 9,3 millions d'euros), une baisse en retraite (-10,5 %, à 35,0 millions d'euros) et une quasi-stabilité en épargne (-0,6 %, à 74,4 millions d'euros). La collecte nette est redevenue positive (+11 millions d'euros), et l'encours a progressé de 3,6 %, générant des ressources supplémentaires. Les prestations hors acceptations ont diminué de 14 % pour atteindre 107,8 millions d'euros, tandis que les rachats ont baissé de 9,8 %, à 60,2 millions d'euros. Le résultat technique vie a fortement reculé, passant de 5,1 millions d'euros en 2023 à 0,5 million d'euros en 2024. Le résultat net après impôts s'établit à 6,3 millions d'euros, en baisse de 2,3 millions d'euros par rapport à l'année précédente.
+
+---
+
+### Provisionnement
+
+Les provisions techniques brutes d'Aréas Vie s'élèvent à 1 104,5 millions d'euros en normes comptables françaises, contre 1 322,9 millions d'euros en normes Solvabilité II. La meilleure estimation (Best Estimate) est de 935 millions d'euros pour les passifs en euros et de 388 millions d'euros pour les passifs en unités de compte (UC). La marge de risque est calculée à 24 millions d'euros, selon une méthode simplifiée basée sur le coût du capital (CoC). Les provisions techniques incluent des passifs d'épargne, de retraite et de prévoyance, avec une segmentation par type de contrat et phase (constitution ou service). Les passifs retraite RCA et RCR, relevant de l'article L441 du Code des Assurances, sont modélisés pour tenir compte de leur équilibre et gestion.
+
+---
+
+### Solvabilité
+
+Au 31 décembre 2024, le ratio de solvabilité SCR d'Aréas Vie s'établit à 205,5 %, en baisse par rapport à 2023 (235,6 %). Les fonds propres disponibles atteignent 280,2 millions d'euros, contre un SCR de 135 millions d'euros et un MCR de 33,7 millions d'euros. Le SCR est principalement porté par le risque de marché (195 millions d'euros), suivi du risque de souscription vie (65 millions d'euros) et du risque de défaut de contrepartie (18 millions d'euros). Les ajustements pour provisions techniques (-52,4 millions d'euros) et impôts différés (-45 millions d'euros) contribuent à réduire le SCR final. La hausse du SCR marché (+46 millions d'euros) est liée à l'augmentation des valeurs de marché des investissements obligataires et actions. Le MCR est calculé à partir d'une formule linéaire et s'élève à 33,7 millions d'euros, avec un ratio de couverture de 822,2 %.
+
+---
+
+### Placements
+
+Les placements financiers d'Aréas Vie, hors actifs en représentation de contrats en UC ou indexés, s'élèvent à 1 255,5 millions d'euros en valeur de marché. Ils se composent principalement d'obligations (894,9 millions d'euros), d'actions (144,9 millions d'euros), d'immobilier (171,5 millions d'euros) et de fonds monétaires (44,2 millions d'euros). Les plus-values latentes sur les placements financiers atteignent 57,7 millions d'euros, en forte hausse par rapport à 2023 (21,5 millions d'euros), en raison de la baisse des taux d'intérêt. Les SCI détenues en portefeuille sont valorisées sur la base de leur actif net réévalué (ANR). Aréas Vie applique une transparisation des OPCVM pour limiter les actifs non transparisés à moins de 5 %.
+
+---
+
+### Changement de gouvernance
+
+Aucun changement de gouvernance n'est mentionné pour l'exercice 2024. Les dirigeants effectifs restent le directeur général et le directeur général adjoint, sous la supervision du Conseil d'administration composé de 15 membres. Le système de gouvernance inclut plusieurs comités spécialisés, tels que le comité d'audit, le comité financier et le comité ORSA, qui se réunissent régulièrement pour valider les politiques et stratégies de gestion des risques.
+
+---
+
+### Perspectives et projets futurs
+
+Aréas Vie prévoit de poursuivre ses actions de renforcement de la sécurité informatique et de conformité réglementaire, notamment en vue de l'entrée en vigueur du règlement DORA en janvier 2025. Une feuille de route a été établie pour garantir la résilience numérique, incluant des audits, des tests de simulation et des ajustements contractuels avec les prestataires critiques. En matière de gestion des actifs, la société continuera à appliquer le principe de la personne prudente et à optimiser son allocation d'actifs pour maintenir un profil de risque cohérent avec ses objectifs stratégiques. Aucun changement significatif dans la politique de souscription ou la composition du portefeuille n'est anticipé.

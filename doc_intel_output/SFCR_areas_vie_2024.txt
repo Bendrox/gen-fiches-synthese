@@ -1,0 +1,2798 @@
+Areas Assurances - SFCR Areas Dommages au 31 décembre 2024
+ARÉAS VIE
+Rapport de solvabilité et de condition financière (SFCR) 2024
+AREAS assurances
+08.04.2025
+Sommaire
+A. SYNTHESE
+2
+A.1
+Activité et résultats
+2
+A.2
+Système de gouvernance
+4
+B. ACTIVITE ET RESULTATS
+5
+B.1
+Activité
+5
+B.2
+Résultat de souscription
+7
+B.3
+Résultat des placements
+9
+B.4
+Résultat des autres activités
+9
+C. SYSTEME DE GOUVERNANCE
+10
+C.1
+Informations générales sur le système de gouvernance
+10
+C.2
+Compétence et Honorabilité
+16
+C.3
+Système de Gestion du Risque y compris l'Evaluation Interne des Risques et de la Solvabilité
+18
+C.4
+Système de Contrôle Interne
+24
+C.5
+Fonction Audit Interne
+26
+C.6
+Fonction Actuarielle
+26
+C.7
+Sous-traitance
+29
+C.8
+Evaluation du système de gouvernance
+30
+C.9
+Autres informations
+30
+D. PROFIL DE RISQUE
+31
+D.1
+Risque de souscription
+31
+D.2
+Risque de marché
+32
+D.3
+Risque de crédit
+33
+D.4
+Risque de liquidité
+34
+D.5
+Risque opérationnel
+35
+D.6
+Autres risques importants
+37
+D.7
+Autres informations
+37
+E. VALORISATION A DES FINS DE SOLVABILITE
+38
+E.1
+Actifs
+41
+E.2
+Provisions techniques
+42
+E.3
+Autres passifs
+47
+E.4
+Méthodes alternatives de valorisation
+48
+E.5
+Autres informations
+48
+F. GESTION DES FONDS PROPRES
+49
+F.1
+Fonds propres
+49
+F.2
+Capital de Solvabilité requis et minimum de capital requis (SCR et MCR)
+52
+F.3
+Utilisation du sous-module « risque sur actions > fonde sur la durée dans le calcul du capital
+de
+solvabilité requis
+56
+F.4
+Différences entre la formule standard et le module interne
+56
+F.5
+Non-respect du minimum de capital requis et non-respect du capital de solvabilité requis
+56
+F.6
+Autres informations
+56
+| 1
+A. SYNTHESE
+Le présent rapport concerne le rapport sur la solvabilité et la situation financière (SFCR) d'Areas Vie pour l'exercice 2024. Il vise à garantir la bonne information du superviseur sur les données publiées par l'organisme et sur son système de gouvernance conformément à l'article 51 de la Directive 2009/138/CE et aux articles 290 à 298 du règlement Délégué 2015/35.
+Il a été approuvé par le Conseil d'Administration du 26 mars 2024.
+Il s'articule autour de 5 axes :
+L'activité de l'organisme
+Son système de gouvernance
+Son profil de risque
+" Les informations sur les méthodes de valorisation utilisées
+" La gestion de son capital
+A.1 Activité et résultats
+Le marché national
+Selon France Assureurs, sur 2024, les cotisations sur le marché vie et capitalisation des contrats d'assurance vie sont en hausse de +14 %, pour atteindre 173,3 milliards d'euros. Les versements sur les supports unités de compte sont en hausse (+8 %, à 66,2 milliards d'euros), de même que les versements sur les supports euros (+17 %, à 107,1 milliards d'euros). La part des supports unités de compte dans l'ensemble des cotisations s'établit à 38 % pour l'année 2024 (40 % pour l'année 2023).
+Par rapport à 2023, les prestations 2024 sont en baisse de 5 %, à 143,8 milliards d'euros. Fin décembre 2024, les prestations représentent, sur un an, 7,6 % des provisions mathématiques (contre 8,3 % à fin 2023).
+Ainsi, la collecte nette sur 2024 s'établit à +29,4 milliards d'euros. Elle est positive pour les supports unités de compte (+34,4 milliards d'euros) et négative pour les supports euros (-5,0 milliards d'euros).
+L'encours des contrats d'assurance vie et de capitalisation est estimé à 1 989 milliards d'euros à fin décembre 2024, en progression de 4 % sur un an (+80 milliards d'euros).
+Le chiffre d'affaires
+Sur l'exercice 2024, l'encaissement des affaires directes d'Aréas Vie, y compris les transferts entrants, s'élèvent à 118,8 millions d'euros, soit une baisse de 2,7 % par rapport à 2023.
+Montant en KEUR
+2024
+2023
+Variation N/N-1
+Prévoyance
+9 331
+8 055
+15,8%
+Retraite
+35 043
+39 158
+-10,5%
+E pargne
+74 427
+74 898
+-0,6%
+TOTAL
+118 801
+122 111
+-2,7%
+| 2
+Prévoyance
+Le chiffre d'affaires prévoyance a augmenté de +15,8 % en 2024 pour atteindre 9,3 millions d'euros (contre +0,3% à 8,1 millions d'euros en 2023).
+· Retraite
+En retraite, après une importante baisse en 2023 (-24,9 %), le chiffre d'affaires affiche une baisse moins marquée de -10,5 % sur 2024, passant de 39,1 millions d'euros à 35,0 millions d'euros. Il est à préciser que les transferts entrants (mêmes internes) des contrats retraite sont intégrés dans ce chiffre d'affaires. Symétriquement, les transferts sortants sont comptabilisés dans les prestations.
+· Epargne
+Le chiffre d'affaires épargne se stabilise sur 2024 à 74,4 millions d'euros (-0,6%), après un recul de 9,2% en 2023. En détail, on constate une hausse sur le fonds euros de +5,9 % (+5,6 % en 2023) et une baisse de -14,9 % pour les unités de compte (UC).
+La répartition euros / UC de la collecte épargne sur les trois derniers exercices est la suivante, avec une progression de la part euros.
+Répartition Euros / UC
+2022
+2023
+2024
+Fonds euros
+59%
+69%
+73%
+Unités de comptes
+41%
+31%
+27%
+CHIFFRES CLES
+Montant en milliers d'euros
+2024
+2023
+Chiffre d'affaires brut
+118 801
+122 111
+Résultat social
+Résultat technique Vie
+479
+5 105
+Résultat technique non-Vie
+0
+0
+Résultat non technique (y compris éléments exceptionnels)
+6 610
+3 526
+Impôts sur les sociétés
+-746
+0
+Résultat net
+6 343
+8 631
+Solvabilité
+Fonds propres disponibles
+277 354
+255 827
+SCR
+134 934
+108 575
+MCR
+33 733
+27 144
+Ratio Solvabilité II SCR
+205,5%
+235,60%
+Ratio Solvabilité II MCR
+822,19%
+942,50%
+Les prestations hors acceptations (échéances, rachats, sinistres, rentes, ITT) s'élèvent à 107,8 millions d'euros en 2024, soit une baisse de -14,0 % par rapport à 2023 : épargne (-12,7 %), retraite (-21,6%). Les rachats représentent 60,2 millions d'euros en 2024, soit une baisse -9,8 %.
+Hors transferts internes entre contrats de retraite, le chiffre d'affaires progresse de +1,5% en passant de 111,1 millions d'euros à 112,8 millions d'euros.
+La collecte nette redevient positive (+11 millions d'euros) et l'encours progresse (+3,6%) générant des ressources de gestion supplémentaires. Les frais généraux étant en baisse (-0,7 million d'euros), la marge sur frais s'améliore.
+| 3
+Les arbitrages obligataires réalisés en 2023 portent leurs fruits avec une hausse significative des revenus financiers récurrents. Le choix de doter la Provision pour Participation aux Excédents (PPE) de 3,3 millions d'euros génère une baisse du résultat financier de l'année au profit des rendements futurs servis aux assurés.
+Un résultat net après impôt sur les sociétés est en diminution par rapport à 2023 (-2,3 millions d'euros).
+Le ratio de couverture du SCR est en baisse par rapport à 2023, ce qui s'explique par la hausse du SCR et notamment de l'ensemble des risques marché.
+A.2 Système de gouvernance
+Pour mettre en conformité la société avec les nouvelles directives, des nominations et des nouvelles fonctions ont été créés en 2016. Cette information est détaillée dans le présent rapport, à la section « C. Système de Gouvernance »
+| 4
+B. ACTIVITE ET RESULTATS
+B.1 Activité
+Informations générales
+Aréas Vie est une société d'assurance mutuelle (SAM) agréée et régie par le Code des Assurances. Elle exerce son activité en France, dans les domaines de l'assurance Vie (Epargne, retraite et prévoyance). Areas Vie est une entité du groupe Areas Assurances regroupant également Areas Dommages.
+Areas Assurances est membre de la ROAM (Réunion des organismes d'assurance mutuelle).
+Information sur la société
+Areas Vie, dont le siège social est situé 49 rue de Miromesnil, 75008 PARIS, est inscrite au registre du commerce et des sociétés de Paris, sous le numéro 353 408 644. Aréas Vie a été constitué le 26 janvier 1981.
+Les activités d'assurance Vie sont réglementées et agréées. De ce fait, Aréas Vie est soumise au contrôle de l'Autorité de Contrôle Prudentiel et de Résolution (ACPR).
+Aréas Vie est également contrôlée par deux cabinets de commissariat aux comptes :
+Société DELOITTE & ASSOCIES représentée par Monsieur Jérôme-Eric GRAS, sise à l'adresse suivante : 6, place de la pyramide 92908 - PARIS LA DEFENSE Nommée le 19 avril 2023
+Société GRANT THORNTON représentée par M.Cyril SMADJA, sise à l'adresse suivante : 29 rue du Pont 92200 - NEUILLY SUR SEINE Nommée le 20 avril 2022
+Aréas Vie ne porte pas d'employé. Aréas Dommages, société ayant des liens très étroit avec Aréas Vie, fournit la totalité de ses moyens humains et administratifs.
+Principaux actionnaires
+Areas Vie est un organisme à but non lucratif du fait de son statut d'assurance mutuelle. Il n'y a donc pas de capital ni d'actionnaire.
+Présentation de l'activité
+Areas Vie exerce son activité exclusivement en France.
+La société propose des produits d'assurance vie dans les domaines de l'épargne, de la retraite et de la prévoyance.
+L'épargne regroupe des produits d'épargne avec des garanties libellées en euros et en unités de compte.
+La retraite regroupe des produits de retraite collective avec des garanties libellées en euros et en unités de compte. Ces produits comprennent :
+o Les Plans d'Epargne Retraite Populaire (PERP) :unselected:
+o Les Plans d'Epargne Retraite Interentreprises (PERI) :unselected:
+o Les contrats à Indemnités de Fin de Carrière (IFC) :unselected:
+o Les contrats en points L-441 :unselected:
+o Le Plan d'Epargne Retraite institue par la Loi PACTE :unselected:
+| 5
+Récompenses
+Par la qualité de ses contrats, Aréas Vie est souvent récompensé dans ses différents domaines d'intervention :
+o Capital décès : Oscar du meilleur contrat d'assurance obsèques :unselected:
+o Multisupport 3 : Oscar du meilleur contrat d'assurance à gestion profilée-équilibré et Oscar du :unselected: meilleur contrat d'assurance vie dont l'encours est inférieur à un milliard d'euros
+o PER Individuel : Oscar du meilleur PER Individuel proposé par un assureur mutualiste. :unselected:
+Filiales et succursales
+Aréas Vie détient : :unselected: o 100 % d'Aréas Immobilier, de GEMMA, de AI4, de FS2A
+· 99,99 % de la SCI Miromesnil 49-3 :unselected:
+o 70 % de AI5 :unselected:
+o 2,25% de la SCI Miromesnil 49-4 :unselected:
+Evènements significatifs Réassurance interne
+Aréas Dommages réassure Aréas Vie via un traité en quote-part de 15 % sur l'ensemble de ses produits en euros (hors RCR, RCA, PERP, PERI, PERIN).
+| 6
+B.2 Résultat de souscription
+2.1 RESULTAT DE SOUSCRIPTION PAR LIGNE D'ACTIVITE
+CHIFFRE D'AFFAIRES
+Le chiffre d'affaires d'Aréas Vie se décompose par ligne d'activité comme suit :
+Montant en milliers d'euros
+2024
+2023
+CA
+%
+CA
+%
+Epargne
+74 427
+62,6 %
+74 898
+61,3 %
+Prévoyance
+9 331
+7,9 %
+8 055
+6,6 %
+Retraite
+35 043
+29,5 %
+39 158
+32,1 %
+· L441
+2 248
+2 488
+· PERP
+1 719
+1 915
+· PERI
+1 370
+1 328
+· PERin
+26 860
+29 985
+· Autres
+2 847
+3 442
+TOTAL
+118 801
+100,0 %
+122 111
+100,0 %
+Le niveau global de cotisations émises est en repli de 2,7 % entre 2024 et 2023.
+Le chiffre d'affaires prévoyance progresse de +15,9%, passant de à 8,1 millions d'euros en 2023 à 9,3 millions en 2024.
+En retraite, le chiffre d'affaires est en retrait par rapport à 2023 (-10,5%), pour atteindre 35,0 millions d'euros. Le chiffre d'affaires en retraite individuelle s'élève à 30,9 millions d'euros en 2024, en retrait de 11,1 % par rapport à 2023. Ce retrait est en partie due à la baisse sensible des transferts entrants au sein du contrat PER Individuel Areas. Par symétrie, on assiste à une baisse des prestations en transfert sortant s'agissant de transferts en interne Areas. La contribution à ce chiffre d'affaires du contrat PER Individuel Areas s'élève à 87 %.
+La collecte épargne est stable entre 2023 et 2024.
+PRIMES, SINISTRES ET DEPENSES PAR LIGNE D'ACTIVITE
+Le QRT S.05.01 est le QRT indiquant les primes, sinistres et dépenses par ligne d'activité (LOB). Il est joint ci-dessous.
+|7
+s.05.01.01.02 Life
+Line of Business for: life insurance obligations
+Total
+Insurance with profit participation
+Index-linked and unit- linked insurance
+Other life insurance
+C0220
+C0230
+C0240
+C0300
+Premiums written
+Gross
+R1410
+79 455 746
+38 371 252
+4 284 045
+122 111 043
+Reinsurers' share
+R1420
+9 792 923
+642 607
+10 435 530
+Net
+R1500
+69 662 823
+38 371 252
+3 641 438
+111 675 513
+Premiums earned
+Gross
+R1510
+Reinsurers' share
+R1520
+Net
+R1600
+Claims incurred
+Gross
+R1610
+91 625 263
+31 548 067
+2 154 381
+125 327 711
+Reinsurers' share
+R1620
+11 011 398
+379 991
+11 391 389
+Net
+R1700
+80 613 864
+31 548 067
+1 774 390
+113 936 321
+Expenses incurred
+R1900
+7 286 299
+3 194 349
+4 111 436
+14 592 084
+Expenses incurred
+Administrative expenses
+Gross
+R1910
+5 087 178
+1 775 235
+2 053 646
+8 916 059
+Reinsurers' share
+R1920
+528 770
+307 934
+836 703
+Net
+R2000
+4 558 409
+1 775 235
+1 745 712
+8 079 355
+Investment management expenses
+Gross
+R2010
+Reinsurers' share
+R2020
+Net
+R2100
+Claims management expenses
+Gross
+R2110
+1 388 235
+458 920
+74 658
+1 921 813
+Reinsurers' share
+R2120
+123 564
+11 104
+134 668
+Net
+R2200
+1 264 671
+458 920
+63 554
+1 787 144
+Acquisition expenses
+Gross
+R2210
+1 721 434
+960 195
+2 728 706
+5 410 335
+Reinsurers' share
+R2220
+258 215
+426 536
+684 751
+Net
+R2300
+1 463 219
+960 195
+2 302 170
+4 725 584
+Overhead expenses
+Gross
+R2310
+Reinsurers' share
+R2320
+Net
+R2400
+Balance - other technical expenses/income
+R2510
+Total expenses
+R2600
+14 592 084
+Total amount of surrenders
+R2700
+45 913 648
+20 471 555
+79 747
+66 464 950
+B.2.2 RESULTAT DE SOUCRIPTION PAR ZONE GEOGRAPHIQUE
+La totalité du chiffre d'affaires d'Areas Vie est réalisée en France.
+| 8
+B.3 Résultat des placements
+B.3.1 RESULTAT DES PLACEMENTS NETS DE FRAIS
+Le résultat des placements nets de frais est la somme des revenus de placements et des revenus de cession, déduction faite des charges afférentes à chaque poste.
+Résultats des investissements
+Montant en milliers d'euros
+2024
+2023
+Revenus des placements
+Obligations + décote/surcote
+27 703
+79%
+22 849
+88%
+Actions
+4 386
+13%
+2 618
+10%
+Fonds d'investissements
+4 318
+12%
+2 494
+10%
+Cessions OPC Trésorerie
+920
+3%
+800
+3%
+Immeubles de placement
+1 311
+4%
+1 125
+4%
+Immeubles d'exploitation
+-
+0%
+-
+0%
+Intérêts : sur prêts
+909
+3%
+362
+1%
+Intérêts : sur dépôts
+-
+0%
+-
+0%
+Intérêts : bancaires et divers
+-4 476
+-13%
+-4 414
+-17%
+Total revenus des placements
+35 071
+100%
+25 834
+100%
+Résultat de cession
+Obligations
+-0
+-2 767
+Actions
+-204
+-
+Fonds d'investissements
+4 139
+2 885
+Immobilier
+-
+-
+PDD
+-2 266
+2 014
+Divers
+-
+-
+Total résultat de cession
+1 668
+2 132
+Affectation des frais généraux
+-302
+-406
+Total
+36 437
+27 561
+En 2024, les revenus de placements hors cessions ont augmenté de 35,8 % par rapport à l'année 2023. Cette hausse de +9,2 millions d'euros s'explique par principalement par :
+" La hausse des revenus obligataires courants (+4,9 millions d'euros) en lien avec la hausse des taux de rendements à l'achat (TRA) du portefeuille à la suite des arbitrages obligataires de 2023 ;
+· La hausse des dividendes perçus sur les placements en actions et fonds d'investissements (+3,6 millions) ;
+B.3.2 PLACEMENTS EN TITRISATION
+Areas Vie n'est pas concerné par ce type de placements.
+B.4 Résultat des autres activités
+Areas Vie n'exerce pas d'autre activité.
+| 9
+C. SYSTEME DE GOUVERNANCE
+C.1 Informations générales sur le système de gouvernance
+L'objectif de mise en place du système de gouvernance est de garantir une gestion saine, prudente et efficace de l'activité.
+Conformément au principe de proportionnalité, ce système doit être proportionné à la nature, à l'ampleur et à la complexité des opérations.
+Il doit comprendre à minima une structure organisationnelle transparente, une répartition claire et une séparation appropriée des responsabilités, ainsi qu'un dispositif efficace de transmission des informations.
+L'organisation du système de gouvernance repose principalement sur :
+" L'organe d'administration, de gestion ou de contrôle (en anglais « Administrative, management or supervisory body » ou AMSB) ;
+" Les personnes qui dirigent effectivement l'entreprise ou qui assument d'autres fonctions clés au sein de l'organisation.
+C.1.1 DEFINITION DE L'AMSB
+L'organe d'administration, de gestion et de contrôle (l'AMSB) assume la responsabilité finale du respect des dispositions législatives, réglementaires et administratives adoptées en vertu de la Directive Solvabilité 2.
+Aréas Vie étant un organisme à structure moniste (Conseil d'Administration et Direction Générale), la transposition de l'AMSB en droit français englobe le Conseil d'Administration et la Direction Générale, dans une responsabilité collective et partagée qui respecte la pratique et les spécificités actuelles et revient à identifier parmi l'ensemble des attributions de l'AMSB les responsabilités classiquement dévolues au Conseil d'Administration et les responsabilités qui relèvent de la Direction Générale.
+C.1.2 ROLES ET RESPONSABILITES DU CONSEIL D'ADMINISTRATION
+Le Conseil d'administration d'Areas Vie est constitué de 15 Administrateurs.
+Il détermine les orientations générales de l'activité de la Société et veille à leur mise en œuvre. Sous réserve des pouvoirs expressément attribués à l'Assemblée Générale et dans la limite de l'objet social, il se saisit de toute question intéressant la bonne marche de la société et règle par ses délibérations les affaires qui la concernent.
+Le Conseil d'administration se réunit quatre fois par an et procède aux contrôles et vérifications qu'il juge opportuns. Le Directeur Général de la société est tenu de communiquer à chaque Administrateur l'ensemble des documents et informations nécessaires à l'accomplissement de sa mission.
+Le Conseil d'administration est responsable de la stratégie de gestion des risques d'Aréas Vie. A ce titre, il est notamment en charge :
+De la définition de l'appétence aux risques et de la validation du dispositif de gestion des risques (approbation des limites de tolérance globales aux risques) ;
+| 10
+" Du suivi des mesures a prendre en cas de survenance des risques et de constatation d'une non-conformité du capital de solvabilité requis ;
+· De l'approbation préalable de l'ensemble des politiques écrites.
+Dans le cadre de l'évaluation des risques, le Conseil d'Administration revoit la conformité de l'évaluation règlementaire des risques (SCR / MCR) et procède également à l'examen, à l'approbation et au suivi de l'évaluation interne des risques et de solvabilité (ORSA).
+Il est impliqué dans la réalisation du processus ORSA par la formulation de directives générales, le contrôle de la cohérence et de l'adéquation des hypothèses retenues et l'apport d'un regard critique sur les résultats. Il s'engage sur le plan d'entreprise et sur les résultats des stress tests, en validant le processus ORSA et le rapport interne ORSA.
+Les orientations stratégiques prises par le Conseil d'administration tiennent compte des travaux menés pour l'ORSA, des hypothèses de construction du plan stratégique et de la surveillance continue des ratios de couverture, permettant ainsi d'évaluer et de maîtriser l'évolution du besoin en capital.
+Le Conseil d'administration est par ailleurs responsable de la validation du reporting externe à destination de l'ACPR et du public. Ce reporting intègre plus particulièrement les éléments suivants :
+" Le rapport RSR (« Regular Supervisory Report >) et le rapport ORSA à destination du superviseur ;
+· Le SFCR (« Solvency & Financial Condition Report >>) à destination du public.
+D'autres rapports internes font également l'objet d'une présentation au Conseil d'administration pour revue et validation. Il s'agit notamment du rapport de la fonction actuarielle, des éléments de reporting sur les expositions aux risques, des plans de conformité et d'audit interne ou encore du rapport de contrôle interne sur la lutte contre le blanchiment et le financement du terrorisme.
+Les politiques écrites sont revues annuellement et les modifications significatives validées en Conseil d'administration au cours de l'exercice.
+C.1.3 COMITES DU CONSEIL D'ADMINISTRATION
+Afin de garantir un système de gouvernance adéquat et de maintenir son efficacité au regard de l'évolution de ses rôles et responsabilités, le Conseil d'administration d'Aréas Vie a décidé de déléguer à des comités spécialisés l'instruction préalable de l'ensemble des sujets soumis à sa validation.
+Ces comités sont répartis en :
+Comité d'audit
+· Comité d'arrêté des comptes ;
+· Comité risques et Réassurance ;
+· Comité financier ;
+· Comité de rémunération et nominations ;
+· Comité ORSA.
+Un rapporteur a été nommé pour chacun de ces comités. Il est chargé de rendre compte au Conseil d'administration des informations communiquées ou décisions prises en séance.
+C.1.3.1 Comité d'audit
+Le comité d'audit d'Aréas Vie est à ce jour composé des membres suivants :
+Président du Conseil d'administration ;
+· Président du comité d'audit ;
+1 Administrateur ;
+· Directeur général ;
+Directeur général adjoint.
+| 11
+Ce comité se réunit au minimum une fois par an, en présence des Commissaires aux comptes et de la fonction clé audit interne. Il est chargé d'examiner les rapports d'audits réalisés dans l'exercice précédent, valider le suivi des actions mises en œuvre sur les audits passés et valider le plan d'audit de l'exercice à venir.
+C.1.3.2 Comité d'arrêté des comptes
+Le Comité d'arrêté des comptes d'Aréas Vie est à ce jour composé des membres suivants :
+· Président du Conseil d'administration ;
+2 Administrateurs ;
+· Directeur général ;
+· Directeur général adjoint.
+Ce comité se réunit une fois par an, en présence des Commissaires aux comptes et du Directeur comptable et fiscal. Il éclaire l'AMSB dans le cadre de la validation de l'arrêté des comptes.
+C.1.3.3 Comité risques et réassurance
+Le Comité risques et réassurance d'Aréas Vie est à ce jour composé des membres suivants :
+· Président du Conseil d'administration ;
+3 Administrateurs ;
+· Directeur général ;
+· Directeur général adjoint.
+Ce comité se réunit une fois par an, en présence du représentant de la fonction clé gestion des risques. Il est chargé de valider les politiques de risques et de réassurance et d'aborder les thématiques des risques majeurs de la société.
+C.1.3.4 Comité financier
+Le Comité financier d'Aréas Vie est à ce jour composé des membres suivants :
+· Président du Conseil d'administration ;
+3 Administrateurs ;
+· Directeur général ;
+· Directeur général adjoint.
+Ce comité se réunit au moins quatre fois par an, en présence du responsable des placements. Il est chargé de valider et de contrôler la gestion des placements de la société.
+C.1.3.5 Comité de rémunération et nominations
+Le Comité de rémunération et nominations d'Aréas Vie est à ce jour composé des membres suivants :
+· Président du Conseil d'administration ;
+2 Administrateurs.
+Ce comité se réunit une fois par an. Il est chargé de déterminer les objectifs et les éléments de rémunération du Directeur général.
+Dans le cadre de la politique de compétence et d'honorabilité, ce Comité est également chargé d'assister le Conseil d'administration concernant l'examen des candidatures aux fonctions-clés et la sélection des futurs administrateurs. Il est également chargé de l'examen du respect de la bonne application des principes de gouvernance d'entreprise.
+| 12
+C.1.3.6 Comité ORSA
+Le Comité ORSA d'Aréas Vie est à ce jour composé des membres suivants :
+· Président du Conseil d'administration ;
+3 Administrateurs ;
+· Directeur général ;
+· Directeur général adjoint.
+Ce comité se réunit une fois par an, en présence du représentant de la fonction clé Gestion des risques.
+Il a pour objectif la présentation de l'évaluation interne des risques et de la solvabilité permettant de valider la stratégie de l'entreprise.
+C.1.4 ROLES ET RESPONSABILITES DE LA DIRECTION GENERALE
+La Direction Générale est en charge de la mise en œuvre opérationnelle des orientations stratégiques validées par le Conseil d'administration.
+A ce titre, elle doit s'assurer de la mise à disposition des moyens nécessaires et suffisants pour garantir un dispositif efficace de gestion des risques et de contrôle interne et maintenir un profil de risque d'Aréas Vie en ligne avec la stratégie et l'appétence aux risques définie par le Conseil d'administration.
+Dans le cadre du reporting prudentiel, la Direction Générale est en outre responsable de la validation des états réglementaires (états quantitatifs de reporting - QRTS), annexés aux rapports narratifs (RSR et SFCR).
+Les responsables de fonctions clés agissent sous la responsabilité de la Direction Générale, à laquelle ils sont rattachés hiérarchiquement.
+Des comités se tiennent sur différents sujets clés déterminés :
+· Atterrissages, budgets et prévisionnels
+Comité agents
+" Comite commercial agents
+Comité courtage
+Comité de direction
+· Comité de pilotage SSI
+Comité des risques
+· Comité de suivi des risques opérationnels
+Comité desherence
+· Comité de gestion des données personnelles
+Comité externalisation
+Comité financier
+Comité Immobilier
+" Comite lutte contre le blanchiment et le financement du terrorisme
+" Comité de liaison juridique et conformité
+" Comité opérationnel du contrôle interne et conformité
+" Comités de suivi des plans d'actions
+Comité produits épargne retraite
+" Comité produits santé, prévoyance, collectives et individuels
+Comité qualité des données
+Comité réseau
+Comité RSE
+Comité de suivi lutte anti-corruption
+Comité de sécurité des systèmes d'information
+" Comite technique et commercial courtage
+Comité univers UC
+| 13
+C.1.5 DIRIGEANTS EFFECTIFS
+Le Directeur général et le Directeur général adjoint sont les dirigeants effectifs d'Areas Vie : leurs pouvoirs leur ont été attribués par le Conseil d'administration d'Aréas Vie.
+C.1.6 FONCTIONS CLES
+Conformément à la Directive Solvabilité 2, Aréas Vie a identifié les quatre fonctions clés suivantes au sein de son organisation : fonction gestion des risques, fonction actuarielle, fonction vérification de la conformité et fonction audit interne.
+Chaque fonction clé est dotée d'un responsable au sein de l'organisme, qui dispose d'attributions particulières.
+Ces fonctions sont dotées de caractéristiques d'indépendance et de responsabilité :
+· Libres et indépendantes (non-cumul avec des fonctions opérationnelles) ;
+" Disposant de ressources, autorité, et expertise pour pouvoir communiquer avec tout membre du personnel à leur initiative ;
+Ayant un accès non restreint à l'information ;
+" Ayant un lien direct avec l'AMSB ;
+Ayant, pour l'audit interne, la possibilité d'alerter l'ACPR.
+Les responsables de fonctions clés agissent sous la responsabilité de la Direction Générale.
+Le Conseil d'administration doit également avoir accès direct aux fonctions clés et à leurs responsables. Il ne s'agit pas de soustraire ces fonctions à la relation hiérarchique avec la Direction Générale, mais simplement de permettre au Conseil d'administration d'avoir directement accès à l'information nécessaire pour lui permettre d'exercer pleinement ses responsabilités.
+L'accès des responsables des fonctions clés au Conseil d'administration est prévu à un rythme régulier.
+Les responsables de fonctions clés répondent par ailleurs à des critères de compétences et d'honorabilité, au même titre que les dirigeants effectifs et les membres de l'AMSB.
+C.1.6.1 Fonction gestion des risques
+La fonction gestion des risques est incarnée par le responsable de la direction investissements, risques et de la réassurance.
+La fonction est en charge de la surveillance du profil de risque général du groupe et élabore un reporting détaillé sur l'exposition au risque, en particulier concernant les risques identifiés comme potentiellement importants.
+Elle s'assure ainsi de la mise en œuvre de la politique de gestion des risques au sein du groupe et veille à ce que le niveau de risque pris soit cohérent avec les orientations stratégiques et l'appétence aux risques définis par l'AMSB.
+Dans son rôle de pilotage, la fonction de gestion des risques est responsable de l'animation de l'ensemble du dispositif d'identification, de mesure, de traitement, de surveillance et de reporting des risques. Elle coordonne également la mise en œuvre opérationnelle du processus ORSA.
+La fonction gestion des risques est responsable d'identifier, d'évaluer et d'assurer la gestion permanente des risques. Elle vise à instaurer une culture du risque à tous les échelons d'Aréas Vie.
+Elle est responsable de :
+· Organiser la gestion des risques en liaison avec les directions opérationnelles et la Direction Générale ;
+· Consolider, analyser et piloter les risques, notamment via l'ORSA ;
+· Identifier/cartographier les risques ;
+| 14
+· Définir les outils de suivi et de pilotage des risques ;
+· Vérifier la correcte mise en œuvre de la politique de risques définie par le Conseil d'administration.
+C.1.6.2 Fonction actuarielle
+Au-delà de sa contribution à la mise en œuvre effective du système de gestion des risques sur un axe quantitatif, le rôle de la fonction actuarielle consiste plus particulièrement à coordonner et superviser le calcul des provisions techniques :
+· Revue de la cohérence de calcul des provisions techniques et proposition de corrections si nécessaire ;
+" Explication, entre deux dates de calcul, de tout événement important sur le montant des provisions techniques dû au changement de données, méthodologies ou hypothèses.
+La fonction actuarielle rend un avis sur la fiabilité et le caractère adéquat des provisions techniques, en appréciant notamment la cohérence, la fiabilité et la suffisance des données utilisées dans le calcul de provisions au regard des normes de qualité des données en vigueur au sein du groupe.
+La fonction donne également son avis sur la politique globale de souscription et l'adéquation des dispositions prises en matière de réassurance.
+L'opinion issue de cette revue critique est formalisée dans le cadre d'un rapport annuel de la fonction actuarielle à l'AMSB.
+Le responsable de la fonction actuarielle présente annuellement les méthodes et calculs de provisionnement de l'année et commente le niveau des provisions ainsi calculées lors du sous-comité des comptes.
+C.1.6.3 Fonction vérification de la conformité
+La fonction vérification de la conformité vise à limiter le risque de non-conformité par le respect des dispositions législatives, règlementaires ou administratives et à évaluer l'impact de tout changement de l'environnement juridique.
+L'objectif principal de la fonction vérification de la conformité est l'application effective de la politique de conformité, consistant principalement à :
+· Identifier, évaluer, contrôler et assurer un reporting des risques de non-conformité, dans le cadre de la gestion des risques opérationnels ;
+· Participer de manière active à la remontée et à la gestion des incidents liés à la conformité, en collaboration avec les directions opérationnelles et le service gestion des risques ;
+· Assurer une veille réglementaire pour assister et conseiller l'AMSB et établir des normes claires (codes, procédures, etc.) dans un but de prévention des risques ;
+· Sensibiliser les salariés en vue de promouvoir une culture de la maîtrise des risques liés aux thématiques de conformité et notamment : la protection des données personnelles, la protection de la clientèle et la fraude interne.
+Le responsable de la fonction vérification de la conformité, appuyé par le Comité de liaison juridique et conformité, est amené à exposer dès que nécessaire aux dirigeants effectifs les principales évolutions de la réglementation et les conséquences de leur mise en œuvre pour l'entreprise. Il présente également le suivi des éventuelles recommandations de l'ACPR.
+| 15
+C.1.6.4 Fonction audit interne
+La fonction audit interne évalue périodiquement l'existence et le fonctionnement du dispositif de contrôle interne, de management des risques et de gouvernance. Elle émet des recommandations sur les améliorations à apporter pour renforcer leur efficacité et effectue le suivi de leur mise en œuvre.
+Ses principales missions consistent à :
+· Élaborer le plan pluriannuel d'audit, structuré suivant les risques prioritaires et couvrant :
+o L'ensemble des activités clés ;
+o L'intégralité du dispositif de gouvernance.
+· Diffuser les conclusions de l'audit à l'ensemble des organes d'administration ou de gestion.
+Le responsable de l'audit interne inscrit son intervention dans le cadre d'un plan d'audit pluriannuel - permettant de couvrir les activités majeures de la Société. Ce processus de planification ainsi que toute modification significative sont soumis pour avis et acceptation à la Direction Générale et pour approbation au Comité d'audit.
+L'élaboration du plan d'audit prend en compte la cartographie des processus, l'évaluation des risques, les demandes émanant de la Direction Générale et du comité d'audit ainsi que des éventuelles recommandations formulées par l'ACPR et les Commissaires aux comptes.
+Le responsable de la fonction audit interne communique annuellement, lors du comité d'audit, sur les missions d'audit exercées durant l'exercice précédent, les résultats et recommandations formulées et le plan d'actions à engager.
+L'audit interne a par ailleurs un devoir d'alerte auprès du superviseur : le cas échéant, il informe l'ACPR des résultats d'un audit lorsque les constats révèlent une situation susceptible de mettre en péril l'entreprise. Cette information est réalisée après avoir obtenu l'accord du comité d'audit.
+C.2 Compétence et Honorabilité
+Aréas Vie s'engage à satisfaire aux exigences de « compétence et honorabilité ». L'évaluation de la compétence et de l'honorabilité s'applique aux :
+· Administrateurs ;
+" Dirigeants effectifs (principe des quatre yeux) ;
+· Responsables des fonctions clés au sens de la directive Solvabilité 2 (fonction actuarielle, gestion des risques, vérification de la conformité et audit interne).
+Une personne est compétente et honorable si elle satisfait en permanence aux exigences suivantes :
+" Ses qualifications professionnelles, connaissances et expérience sont suffisantes pour permettre une gestion saine et prudente (compétence) ;
+· Elle est de bonne réputation et intègre (honorabilité). Areas Vie suppose qu'un individu est honorable si aucune preuve évidente ne suggère l'inverse. Certaines sanctions pénales, civiles ou disciplinaires sont incompatibles avec les exigences d'honorabilité. De telles sanctions peuvent être liées à la vie privée ou à l'activité professionnelle.
+C.2.1 EVALUATION DE LA COMPETENCE
+Aréas Vie évalue la compétence collective des membres du Conseil d'administration selon les critères définis ci-dessus ainsi que par un questionnaire d'auto-évaluation.
+Cette compétence collective est appréciée sur les thèmes suivants :
+· Connaissance du marché de l'assurance ;
+| 16 :unselected: :unselected:
+Connaissance des marchés financiers ;
+· Stratégie d'entreprise et modèle économique (dans le cadre de l'ORSA) ;
+" Système de gouvernance ;
+" Analyse financière et actuarielle ;
+Exigences législatives et réglementaires applicables aux activités d'Areas Vie.
+Lors de chaque modification de la composition du Conseil d'administration, Areas Vie s'assure que la compétence collective de cet organe demeure au niveau adéquat par thème listé par la Directive.
+Areas Vie met en place des séances de formation aux points le nécessitant en fonction de l'analyse des réponses aux questionnaires d'auto-évaluation auprès des membres du Conseil d'administration sur les besoins identifiés.
+Aréas Vie évalue également la compétence individuelle des dirigeants effectifs et des responsables de fonctions clés selon la nature du poste, la formation, les connaissances, les qualifications et l'expérience des personnes concernées.
+C.2.2 EVALUATION DE L'HONORABILITE
+Aréas Vie retient des critères spécifiques pour l'évaluation de l'honorabilité qui sont listés dans le questionnaire d'autoévaluation et basé sur le formulaire de l'ACPR à renseigner en cas de nomination ou de renouvellement de dirigeants d'organismes d'assurances tels que définis par l'article L. 612-23-1-II du Code monétaire et financier.
+Lors de l'envoi des questionnaires d'auto-évaluation aux membres du Conseil d'administration d'Areas Dommages, un extrait de casier judiciaire, une déclaration de non-condamnation, une déclaration de filiation, un curriculum vitae ainsi qu'une pièce d'identité leur sont également demandés.
+C.2.3 PROCESSUS D'EVALUATION DE LA COMPETENCE ET DE L'HONORABILITE DES PERSONNES DIRIGEANTES ET OCCUPANT LES FONCTIONS CLES
+Afin que ces exigences de compétence et d'honorabilité soient satisfaites en tout temps, Aréas Vie les évalue :
+· Lors de l'évaluation initiale, c'est-à-dire lors du recrutement, de la nomination, ou pour des personnes déjà en poste ;
+· Lors de l'évaluation continue, qui a lieu annuellement.
+Certains évènements sont susceptibles de déclencher des réévaluations de compétence et d'honorabilité entre les évaluations annuelles (condamnation, etc.).
+L'ensemble de ces dispositions est décrit dans la politique écrite correspondante d'Aréas Vie.
+| 17
+C.3 Système de Gestion du Risque y compris l'Evaluation Interne des Risques et de la Solvabilité
+C.3.1 SYSTEME DE GESTION DES RISQUES
+Aréas Vie a mis en place un système de gestion des risques qui comprend les stratégies, processus et procédures d'information nécessaires pour déceler, mesurer, contrôler, gérer et déclarer, en permanence, les risques, aux niveaux individuels et agrégés, auxquels la société est ou pourrait être exposée ainsi que les interdépendances entre ces risques.
+Le dispositif de gestion des risques créé par Aréas Vie vise à maîtriser les risques et à contrôler les activités réalisées tout en optimisant les processus.
+Aréas Vie a également formalisé sa politique de gestion des risques en :
+· Décrivant les dispositifs existants au sein de la société en termes de pilotage et maîtrise des risques ;
+· Précisant le rôle des organes de gouvernance et le processus de prise de décision au niveau de l'organisme ;
+· Présentant les méthodes retenues d'identification et d'évaluation des risques ;
+· Définissant des règles de gestion globale des risques (appétence au risque ... ) et plus spécifiquement par catégorie de risques.
+Ce document est rédigé par le service de gestion des risques et est validé par le Conseil d'administration et la Direction Générale. Cette politique est réexaminée au moins une fois par an.
+La Direction des risques a pour principales missions de concevoir et coordonner le système de gestion des risques et de mettre en œuvre les composantes du dispositif ORSA.
+C.3.2 INTERVENANTS, ROLES ET RESPONSABILITES
+Le système de gestion des risques s'appuie sur l'ensemble des acteurs intervenant sur les thématiques répertoriées dans la cartographie des risques.
+Le dispositif global de maîtrise des risques est soumis à l'approbation de la Direction Générale et repose sur un système de délégation à des comités spécialisés pour les différentes familles de risques.
+C.3.2.1 Niveaux de gestion des risques
+Le Directeur général veille au renforcement permanent d'une culture de maîtrise du risque au sein d'Aréas Vie. Pour cela, Aréas Vie fonctionne sous le principe de la délégation de l'autorité (assigner l'autorité au niveau approprié de l'organisation où le risque est pris). Une supervision indépendante de ses activités est effectuée afin de contrôler et d'optimiser ce dispositif et de corriger toute faiblesse identifiée.
+Opérationnellement, la gestion des risques est mise en place à trois niveaux différents :
+· Au niveau des entités opérationnelles : Elles mettent en œuvre la politique de gestion des risques d'Areas Vie et ont pour mission de s'assurer que les processus et les contrôles appropriés sont en place et correctement utilisés.
+La culture du risque doit être partagée à tous les échelons de l'organisation ; les managers locaux sont donc les premiers dépositaires de la gestion des risques d'Aréas Vie.
+· Au niveau du département de gestion des risques : La Direction des risques s'assure du respect des standards de gestion de chacun des risques au sein de toute l'organisation au travers du dispositif de gestion
+| 18
+des risques et de politiques plus spécifiques. Il coordonne la mise en place des initiatives liées aux risques, favorise la prise de conscience des managers vis-à-vis des problématiques de risque et fournit des informations de suivi des risques au management et au Comité de direction. Son rôle est d'assister le Conseil d'administration dans la définition de l'appétence aux risques et des seuils de tolérance aux risques d'Aréas Vie.
+· Au niveau de l'audit interne : La fonction clé audit interne valide la structure du dispositif de gouvernance des risques ainsi que sa déclinaison opérationnelle au travers des règles et des processus définis.
+C.3.2.2 Fonction gestion des risques
+La fonction de gestion des risques, telle que décrite à l'article 44 de la directive solvabilité 2 ainsi qu'à l'article 269 du règlement délégué, fait partie des structures dites de « pilotage », qui apportent une garantie sur la gouvernance des risques au sein de l'organisme. Elle fournit une vision transversale et synthétique de la gouvernance des risques au sein de l'organisme, ainsi que des risques majeurs auxquels est exposé l'organisme. Elle veille à ce que le niveau de risque pris soit cohérent avec les orientations et les objectifs définis par le Conseil d'administration.
+Elle assume, à ce titre, les aspects suivants de la politique de gestion des risques :
+· Relation avec les directions opérationnelles, les « preneurs de risques » ;
+· Coordination / réalisation de la cartographie des risques pour l'ensemble des risques ;
+· Suivi de la mise en œuvre des mesures de maîtrise des risques ;
+" Information des dirigeants effectifs ;
+· Organisation de la continuité des activités concernées par des risques dont la criticité remettrait en cause le fonctionnement de la société.
+C.3.2.3 ORSA
+L'évaluation prospective des risques est formalisée à travers le processus.
+Ce processus constitue un outil d'analyse décisionnel et stratégique permettant de comprendre et d'évaluer de manière continue et prospective les risques inhérents à l'activité d'Aréas Vie, sa capacité à les couvrir et à absorber d'éventuelles fluctuations.
+Évaluations conduites dans le cadre de l'ORSA
+Cette évaluation porte sur les éléments suivants :
+· le besoin global de solvabilité, compte tenu du profil de risque spécifique, des limites approuvées de tolérance aux risques et de la stratégie commerciale de l'entreprise ;
+· le respect permanent des exigences de capital ;
+· la mesure de l'écart entre le profil de risque de l'entreprise et les hypothèses qui sous-tendent le modèle standard de calcul du capital de solvabilité requis.
+Fréquence du processus ORSA
+Le processus ORSA d'Aréas Vie est un processus annuel. Cependant, au cas où le profil de risque d'Areas Vie serait modifié de manière notable, un processus ORSA ponctuel peut être engagé.
+Les événements susceptibles de déclencher un processus ORSA ponctuel peuvent par exemple être liés à :
+· l'acquisition ou le développement d'un nouveau portefeuille dont le profil de risques diffèrerait des portefeuilles déjà existants, de manière matérielle ;
+· un changement de structure de reassurance ;
+· une modification significative du plan d'entreprise ;
+| 19
+· un changement notable de contexte réglementaire, fiscal, économique ou démographique ;
+· une reallocation du portefeuille d'actifs.
+Organisation, rôles et responsabilités
+Le rapport ORSA est rédigé par la direction des risques et réassurance et est présenté à la Direction Générale pour examen et commentaires. Après approbation, le rapport ORSA est présenté au Conseil d'administration pour validation.
+Le Conseil d'administration veille à ce que le plan d'entreprise soit cohérent avec l'appétence aux risques qu'il a définis.
+C.3.3 EVALUATION DES RISQUES
+La cartographie des risques opérationnels est mise à jour de manière continue par la Direction des risques en coordination avec la fonction vérification de la Conformité et le département de Contrôle Interne.
+Les risques pris en compte dans la Formule Standard pour Areas Vie en 2024 sont les suivants :
+Décomposition du SCR 2024 (M€)
+18
+-52
+65
+5
+-52
+-45
+196
+227
+135
+SCR Marché
+SCR Souscription Non-Vie
+SCR Souscription Santé
+SCR Souscription Vie
+SCR Défaut de contrepartie
+Diversification
+BSCR
+SCR Opérationnel
+Adj TP
+Adj ID
+SCR
+Actuellement, le principal module contributeur est le risque de marché.
+Le profil de risque d'Areas Vie est classique par rapport au marché français. Bien que les dépendances entre les différents risques soient imparfaitement prises en compte par des corrélations linéaires, la société n'a pas de raison de penser que les coefficients retenus par la Formule Standard (choisis pour corriger au mieux un biais éventuel) ne soient pas adaptés.
+Un certain nombre de risques non pris en compte dans la Formule Standard ont été identifiés :
+" Le risque souverain : Areas Vie ne détient que très peu d'obligations souveraines dans son portefeuille d'actifs et le risque souverain n'est donc pas jugé comme étant matériel.
+" Le risque stratégique : ce risque est piloté via le système de gouvernance mis en place au sein de l'entreprise ainsi que les process de décision et le suivi technique de la rentabilité.
+" Le risque de liquidité : des projections de flux entrants et sortants sont effectuées sur un pas de temps mensuel afin de contenir ce risque.
+| 20
+C.3.4 STRATEGIE ET TOLERANCE AUX RISQUES
+L'appétence aux risques d'Areas Vie a pour objectif de s'assurer que le ratio de couverture du SCR d'Aréas Vie ne descende pas à un niveau inférieur à 115% avec une certitude de 90% (période de retour 10 ans).
+Cette appétence est redéfinie à minima de manière annuelle par le Conseil d'administration.
+C.3.5 PRINCIPE DE LA PERSONNE PRUDENTE DANS LES INVESTISSEMENTS
+Le principe de la personne prudente est appliqué dans la gestion des investissements. Il est piloté par le Comité financier, composé d'experts en gestion financière qui se réunissent mensuellement pour d'une part, analyser la performance, le risque ainsi que la bonne gestion des actifs d'Aréas Vie, et d'autre part, pour statuer sur les consignes à donner aux gestionnaires d'actifs.
+En effet, la gestion des actifs obligataires, représentant environ 70 % des actifs, est confiée à des gérants extérieurs, acteurs majeurs de la profession, qui fournissent des reporting périodiques.
+De plus, dans le cadre de sa politique de placement, Aréas Vie investit dans des instruments présentant des risques identifiés, mesurés, suivis et contrôlés.
+L'ensemble est encadré par une politique de mandats de gestion en vue de minimiser les risques en établissant des règles de prudence, conformément aux recommandations de l'ACPR.
+Par ailleurs, les investissements, réalisés dans le cadre des mandats de gestion, sont analysés mensuellement et font de l'objet de contrôle sur le respect des limites imposées.
+C.3.6 RISQUES LIES AUX TECHNOLOGIES DE L'INFORMATION ET DE LA COMMUNICATIONS (TIC) : FEUILLE DE ROUTE
+En application du règlement européen nº 2022/2554 du 14 décembre 2022 sur la résilience opérationnelle numérique du secteur financier (DORA), Areas Vie renforce son cadre de gouvernance en matière de risques liés aux TIC et développe une stratégie de résilience opérationnelle numérique.
+L'objectif d'Aréas Vie est de pouvoir assurer une gestion efficace des risques associés aux TIC, garantir la continuité de ses activités en cas d'incident majeur et respecter les standards réglementaires.
+En perspective de l'entrée en vigueur du règlement DORA le 17 janvier 2025, Aréas Vie a déterminé une première feuille de route qui a pour objet de préciser les étapes clés de la trajectoire de mise en conformité, les ressources mobilisées et les échéances associées afin de garantir à terme une couverture exhaustive du périmètre.
+Cette feuille de route est construite proportionnellement à l'activité et au modèle économique d'Aréas Vie.
+Le périmètre de la mise en conformité couvre les aspects suivants :
+" La gouvernance des risques TIC, par la mise en place d'une organisation adaptée à la gestion des risques TIC, incluant une comitologie en charge de ces enjeux, et la définition des rôles et responsabilités pour garantir un pilotage efficace du dispositif.
+La stratégie de résilience opérationnelle numérique, par le développement d'un plan global englobant la prévention, la détection, la gestion et la restauration des activités.
+| 21
+La gestion des risques TIC avec l'identification des vulnérabilités critiques et des scénarios de risques pertinents et la poursuite de la mise en place du plan de continuité d'activité (PCA).
+La mise en conformité est structurée autour de cinq phases principales :
+Analyse initiale
+Cette phase a été initiée courant 2024 afin de dresser un diagnostic de la situation d'Areas Vie au regard des exigences réglementaires en vigueur et à venir.
+Elle inclut la réalisation d'un audit du dispositif de sécurité informatique, une analyse de la résilience actuelle des systèmes d'information et l'identification des écarts par rapport aux exigences du règlement DORA.
+Aréas Vie dispose désormais de cette analyse d'écart qui a permis d'établir un premier plan d'actions avec ses priorités et une projection sur les deux prochains exercices, même si toutes les étapes et leur organisation ne sont pas encore toutes précisément planifiées.
+Conception du cadre de conformité
+Durant cette phase, Aréas Vie définit les politiques, procédures et dispositifs requis pour se conformer au mieux au cadre réglementaire.
+Les actions prévues comprennent la rédaction d'une stratégie de résilience opérationnelle numérique, l'élaboration des politiques de gestion des risques TIC et la conception d'un cadre de reporting conforme aux attentes réglementaires.
+Cette phase sera déployée à partir du deuxième trimestre 2025.
+Mise en œuvre opérationnelle
+Aréas Vie entend capitaliser sur les dispositifs déjà mis en place, s'agissant notamment de la comitologie, du PCA, des tests du PCA et de la gestion des incidents liés aux TIC.
+La mise en œuvre repose sur le déploiement des outils nécessaires pour la gestion des risques TIC et la supervision des systèmes d'information, la sensibilisation des équipes concernées et l'intégration des mécanismes de suivi et de réponse aux incidents et la déclaration aux autorités compétentes des incidents majeurs liés aux TIC.
+Cette phase sera déployée à partir du premier semestre 2025. La priorité est la préparation du registre de TIC, qui sera remis en avril 2025 avec l'ensemble des informations sur les prestataires soutenant les activités critiques ou importantes. Pour ce faire, Aréas Vie s'est appuyée sur son PCA et l'analyse des bilans d'impact sur les activités (BIA) réalisés pour sa construction.
+La priorité suivante consistera à enrichir le processus de gestion des incidents avec les spécificités apportées par le règlement DORA.
+Validation et tests
+Cette phase est consacrée à la vérification de l'efficacité des dispositifs implantés.
+Elle comprend la conduite de simulations d'incidents majeurs pour tester la résilience des systèmes, la validation des procédures de gestion des risques et des dispositifs de reporting et l'ajustement des mesures en fonction des résultats des tests.
+Cette phase sera déployée à partir du second semestre 2025. Lors de cette phase, Aréas Vie cherchera à identifier parmi ses prestataires critiques ceux qui par leur taille ne seront pas intégrés aux tests de résilience pris en charge par les régulateurs et pour lesquels Areas Vie dressera un ordre de priorité et un planning de tests de résilience numérique.
+| 22
+Suivi et amélioration continue
+Cette phase vise à pérenniser les acquis de la mise en conformité et à ajuster les dispositifs en fonction des évolutions réglementaires ou technologiques.
+Elle inclut la tenue de comités de suivi périodiques pour évaluer les dispositifs en place et l'actualisation des plans de gestion des risques et des stratégies de résilience en fonction des nouveaux risques identifiés. Aréas Vie mettra en œuvre une gouvernance adaptée à son contexte existant, notamment en s'appuyant sur ses instances en charge de la sécurité des systèmes d'information, en les élargissant à toute la problématique de résilience numérique et en impliquant tous les acteurs concernés de l'entreprise.
+Pour atteindre les objectifs fixés, Aréas Vie entend mobiliser les moyens suivants :
+Des ressources humaines, par une équipe multidisciplinaire composée de spécialistes TIC, de juristes en conformité réglementaire et d'experts en gestion des risques ainsi que par des consultants externes pour mener des audits et accompagner la mise en œuvre de certains aspects de la réglementation (en particulier la remise du registre d'information au deuxième trimestre 2025).
+· Des ressources financières, par un budget dédié à l'accompagnement par des prestataires externes, à l'acquisition éventuelle d'outils de gestion et aux tests de résilience.
+" Des ressources technologiques, par des solutions logicielles spécifiques pour la gestion des risques TIC et la cybersécurité. Aréas Vie a, à ce titre, lancé une étude pour déterminer si un outil du marché pouvait permettre d'accélérer et structurer sa démarche de mise en conformité avec le règlement DORA et s'inscrire dans une vision plus large d'un support à la couverture d'autres sujets règlementaires.
+L'analyse initiale s'est achevée en fin décembre 2024. A cette date, la gouvernance et la comitologie sont déjà en place, le RSSI dispose du rattachement adéquat, un budget a été identifié et il existe une documentation de gestion des changements TIC et du dispositif de sauvegarde.
+Par ailleurs, la notion d'amélioration continue est intégrée et Aréas Vie dispose d'un dispositif de gestion des incidents.
+Les phases suivantes seront déployées progressivement dans le courant de l'année 2025 avec une priorité donnée au premier trimestre 2025 à l'inventaire des fonctions métier (avec leur niveau de criticité, les actifs qui soutiennent les fonctions et les prestataires de TIC concernés), à l'élaboration du registre d'information (les prestataires critiques ou importants étant eux-mêmes prioritairement renseignés pour la première remise du registre), puis à la classification et au suivi des incidents selon les nouvelles exigences réglementaires (à partir du deuxième trimestre 2025) et à la gestion des risques liés aux prestataires tiers de services TIC.
+A compter du deuxième trimestre 2025, profitant du travail effectué sur le registre des prestataires de TIC, Aréas Vie approfondira la dimension des actifs TIC et identifiera les évolutions à apporter aux accords contractuels avec ces prestataires critiques.
+En parallèle de ces actions portant sur les nouveautés apportées par le règlement DORA, Aréas Vie poursuivra ses actions de renforcement de son dispositif opérationnel autour de la sécurité informatique déployé par le responsable de la sécurité des systèmes d'information et dans le cadre d'un budget dédié.
+| 23
+C.4 Système de Contrôle Interne
+Aréas Vie, conformément à ses engagements, a défini le cadre global de mise en œuvre et de fonctionnement du contrôle interne et a précisé les missions et responsabilités des acteurs du contrôle interne au sein de l'entreprise.
+C.4.1 DESCRIPTION DU DISPOSITIF DE CONTROLE INTERNE
+Le système de contrôle interne en place au sein d'Aréas Vie a pour but de répondre à trois objectifs :
+· Respecter la réglementation externe et les procédures et politiques internes ;
+· Sécuriser l'efficacité des activités opérationnelles ;
+" Sécuriser l'intégrité et la fiabilité des informations comptables, financières et non-financières afin notamment de garantir la conformité de la valorisation des actifs et des passifs.
+Le dispositif de contrôle interne d'Aréas Vie s'applique à tous les collaborateurs de la société sans restriction, ainsi qu'à tous les partenaires agissant au nom ou pour le compte d'Areas Vie. Par conséquent, il couvre toutes les activités et processus de la société.
+Compte tenu des principes de libre organisation des fonctions et de proportionnalité décrite dans le cadre de Solvabilité 2, le dispositif de contrôle interne est réparti entre :
+" Une fonction de coordination du contrôle permanent confiée au service Contrôle Interne,
+· Des relais opérationnels confiés aux directions métiers pour la réalisation du contrôle permanent métiers.
+Le dispositif de contrôle interne d'Aréas Vie repose sur l'organisation suivante :
+" Le contrôle de premier niveau, ou contrôle permanent local, intégré aux processus gérés par les métiers, consistant en la surveillance des opérations (contrôles opérationnels réalisés par les collaborateurs dans le cadre de leur activité et contrôles de supervision réalisée par les managers) ;
+" Le contrôle permanent de deuxième niveau, ou contrôle permanent central, complémentaire au dispositif de premier niveau, consistant en la surveillance du dispositif de contrôle permanent local (contrôles clés, revues de processus, etc.). Le contrôle permanent central est assuré par le Contrôle Interne, la Conformité, la Gestion des Risques et les Comité Agents et Comité Courtage.
+Le Contrôle Interne est responsable du pilotage de la coordination de la mise en application du dispositif de contrôle permanent sous la supervision des dirigeants effectifs, qui s'assurent que l'ensemble des acteurs du dispositif remplissent efficacement les tâches qui leur incombent au titre du contrôle interne.
+C.4.2 PROCESSUS ET CONTROLES EXISTANTS
+C.4.2.1 Suivi des actions clés couvrant les risques opérationnels
+Aréas Vie élabore chaque année un plan de contrôle interne, mis en œuvre ensuite par le contrôle permanent local et le contrôle permanent central. Un reporting des contrôles, cordonné par le contrôle interne, permet d'assurer le suivi de la mise en œuvre de ces plans de contrôles.
+Un comité opérationnel de contrôle interne et conformité permet de coordonner les plans d'actions du contrôle permanent central et du contrôle périodique et de faire état du suivi dispositif de contrôle permanent à la direction générale.
+Le dispositif de contrôle interne au sein d'Aréas Vie s'appuie essentiellement sur les outils suivants :
+| 24
+" Une cartographie des processus, dont le but est d'apporter une compréhension globale du fonctionnement de ses activités. Elle décrit l'ensemble de ses activités et identifie les procédures de contrôle associées ;
+· Une cartographie des risques opérationnels afin d'appréhender l'ensemble des facteurs susceptibles d'affecter ses activités et ce, dans l'objectif de se prémunir contre les conséquences juridiques, humaines, économiques et financières que pourrait générer une vigilance insuffisante. La cartographie des risques consiste en l'identification, l'évaluation, la hiérarchisation et la gestion des risques inhérents aux activités d'Aréas Vie. Areas Vie dispose de différentes cartographies des risques : cartographie des risques opérationnels, cartographie des risques de conformité, cartographie des risques de fraude, cartographie des risques de BC-FT, cartographie des risques de corruption, cartographie des risques SI/SSI, etc. constituant sa cartographie des risques opérationnelle et de conformité globale ;
+" Enfin, une base d'incidents recense les incidents opérationnels survenant dans l'exercice des activités d'Areas Vie. Le contrôle interne intervient en support des métiers dans l'analyse des incidents et l'identification des actions à mettre en œuvre. Par l'analyse des incidents, Areas Vie s'assure de l'efficacité de son dispositif de contrôle interne et s'assure de la mise en œuvre plans d'actions permettant de le sécuriser.
+· Un comité de suivi des risques opérationnels et de suivi des incidents, réunissant la direction générale, le directeur des risques, le directeur du contrôle interne et de la conformité et le responsable et un membre de l'équipe du contrôle interne, permet le suivi des risques opérationnels et du traitement des incidents et de la mise en œuvre des plans d'actions correctifs associés.
+C.4.2.2 Suivi des actions clés couvrant les risques de non-conformité
+Le suivi de l'évolution de l'environnement juridique applicable aux secteurs d'activités de la société est assuré selon différents moyens.
+Tout d'abord, la conformité veille au respect de la réglementation relative aux activités d'assurance, avec le soutien du Comité de Liaison Juridique et Conformité, et s'assure que les conséquences des changements règlementaires sont identifiées. Ce comité est chargé de coordonner les travaux juridiques réalisés au niveau des différentes directions et d'examiner les questions d'ordre réglementaire. Il est composé de juristes et de représentants opérationnels et se réunit en moyenne une fois par quadrimestre.
+En outre, de nombreux responsables de la société sont représentés au sein des principaux groupes de travail de la profession (France assureurs, ROAM, AAM, etc.) qui se concertent sur des thèmes d'actualité. La participation active à ces commissions permet aux différentes directions du groupe d'être informées des évolutions réglementaires.
+Par ailleurs, les différentes directions effectuent une veille réglementaire sur leurs domaines d'intervention et partagent les informations avec les autres équipes concernées.
+Les modifications de l'environnement juridique sont analysées, intégrées et diffusées auprès des directions concernées. Les évolutions ayant un impact significatif sur les activités de la société peuvent donner lieu à la création de groupes de travail transversaux.
+Enfin, la conformité exerce une fonction de contrôle, veillant à la bonne application de la réglementation dans l'exercice de l'activité d'Areas Vie. Cette fonction s'exerce dans le cadre de la mise en œuvre du dispositif de contrôle permanent d'Aréas Vie décrit ci-dessus.
+| 25
+C.5 Fonction Audit Interne
+L'audit interne est rattaché à la Direction Générale et rapporte au Comité d'audit. Il permet à la Direction Générale de s'assurer que les contrôles mis en place au sein de la société sont effectués de façon cohérente et efficace partout où les opérations nécessaires à la bonne marche de l'entreprise s'accomplissent et où les risques sont gérés, en vue d'atteindre les objectifs fixés dans le cadre de la stratégie d'entreprise.
+L'Audit interne consiste donc en un examen discontinu des différentes activités de l'entreprise, en vue d'aider la Direction à améliorer la rentabilité et l'efficacité de la gestion.
+Cet examen comporte des contrôles et des recommandations sur les résultats obtenus. Ces recommandations proposent des lignes d'actions correctives pour améliorer les résultats ou l'utilisation des moyens. Chaque recommandation est accompagnée de son niveau de sensibilité de l'action à engager et son calendrier de mise en œuvre à respecter.
+Les missions d'audit doivent être assurées par des personnes indépendantes de la hiérarchie, non responsables de l'organisation et de la gestion des systèmes qu'elles contrôlent.
+L'auditeur interne peut s'appuyer sur des cabinets de conseil externes en fonction de la nature de la mission et des compétences requises. Mais les recommandations et le plan d'actions correctif seront toujours sous la responsabilité de l'auditeur interne.
+Le responsable de l'audit interne inscrit son intervention dans le cadre d'un plan d'audit annuel. Ce processus de planification ainsi que toute modification significative sont soumis pour avis à la Direction Générale et pour approbation au Comité d'audit, emanation du Conseil d'administration.
+L'élaboration du plan annuel d'audit prend en compte la cartographie des processus, l'évaluation des risques, les demandes émanant de la Direction Générale et du Comité d'audit ainsi que des éventuelles recommandations formulées par l'ACPR et les Commissaires aux comptes. Le responsable de la fonction audit interne communique annuellement, lors du Comité d'audit, sur les missions d'audit exercées durant l'exercice précédent, les résultats et recommandations formulées et le plan d'actions à engager.
+L'Audit Interne a par ailleurs un devoir d'alerte auprès du superviseur : le cas échéant, il informe l'ACPR des résultats d'un audit lorsque les constats révèlent une situation susceptible de mettre en péril la pérennité de l'entreprise. Cette information est réalisée après avoir obtenu l'accord du Comité d'audit.
+C.6 Fonction Actuarielle
+L'article 48 de la directive solvabilité 2 précise les prérogatives de la fonction actuarielle :
+· Coordonner le calcul des provisions techniques
+· Garantir le caractère approprié des méthodologies, des modèles sous-jacents et des hypothèses utilisés pour le calcul des provisions techniques
+· Apprécier la suffisance et la qualité des données utilisées dans le calcul des provisions techniques
+Comparer les meilleures estimations aux observations empiriques
+· Informer l'organe d'administration, de gestion ou de contrôle de la fiabilité et du caractère adéquat du calcul des provisions techniques
+" Superviser le calcul des provisions techniques dans les cas vises à l'article 82
+· Emettre un avis sur la politique globale de souscription
+· Emettre un avis sur l'adéquation des dispositions prises en matière de reassurance
+| 26
+· Contribuer à la mise en œuvre effective du système de gestion des risques vise à l'article 44, en particulier pour ce qui concerne la modélisation des risques sous-tendant le calcul des exigences de capital prévu au chapitre VI, sections 4 et 5, et pour ce qui concerne l'évaluation visée à l'article 45.
+Ces prérogatives se voient assorties de critères de compétence et de probité.
+La fonction actuarielle évalue la cohérence de la politique de souscription avec l'appétence aux risques de l'entreprise. Elle émet notamment un avis sur :
+· L'impact potentiel sur la rentabilité future des facteurs externes, tel que l'inflation, le risque juridique, l'évolution du volume d'affaires et l'évolution des marchés et de l'environnement ;
+· L'adéquation des dispositifs de reassurance et leur efficacité dans l'attenuation de la volatilité des fonds propres ;
+· En épargne et retraite : la cohérence des options et garanties financières proposées avec les conditions de marché ;
+· En prévoyance : le niveau de primes nécessaire pour couvrir les sinistres et frais à venir, compte tenu notamment des risques sous-jacents.
+La fonction actuarielle propose également au Conseil d'administration / à la Direction Générale les éléments d'analyses lui permettant de piloter la politique de souscription.
+C.6.1 PRINCIPALES METHODES ET PROCEDURES DE PROVISIONNEMENT
+Afin de garantir la conformité aux principes généraux du cadre réglementaire Solvabilité 2, Aréas Vie formalise :
+· Les principes méthodologiques portant sur l'évaluation des provisions techniques Solvabilité 2 ;
+" Les exigences relatives à la qualité des données, aux hypothèses, et aux contrôles requis dans le processus de production des provisions techniques.
+La valeur des provisions techniques sous Solvabilité 2 correspond à la somme des Best Estimate (BE ou meilleure estimation) et de la marge de risque.
+Le BE est calculé comme la valeur actuelle des flux futurs probables des prestations et des frais de gestion, diminués des primes perçues.
+La marge de risque correspond au montant de provision complémentaire à la meilleure estimation, calculée de telle manière que le montant total de provisions inscrit au bilan économique corresponde à celui qu'exigerait une entité de référence pour honorer les engagements à la charge de l'assureur (Article 76 de la Directive Solvabilité 2).
+Le BE est calculé en cohérence avec les informations de marché disponibles à la date de l'évaluation.
+Les étapes du processus de provisionnement sont les suivantes :
+" Calcul des provisions techniques en normes françaises par la Direction Technique Vie et des provisions techniques en normes Solvabilité 2 (BE + marge de risque) par la Direction des Risques ;
+Revue et appréciation des calculs.
+Les principes de valorisation des provisions techniques Solvabilité 2 conduisent Aréas Vie à :
+Classifier ses contrats en lignes d'activité réglementaires (LoB : Line of Business)
+| 27
+" Segmenter son portefeuille de manière à réaliser l'évaluation sur des groupes de risque homogène (découpage par produit et par garantie)
+· Évaluer ses best estimate :
+% Définition des frontières du contrat et évaluation des primes futures
+% Estimation des flux de sinistres (bruts et nets de recours)
+Estimation des frais liés au contrat
+Actualisation des flux selon la courbe des taux EIOPA
+· Évaluer la marge pour risque
+Aréas Vie a développé un outil de projection de son activité (outil ALM). Cet outil permet de calculer les provisions techniques selon la méthode Best Estimate et d'estimer la capacité d'absorption des pertes par les provisions techniques dans chaque scénario de choc (marché et souscription).
+La politique de gestion actif passif propose une description du fonctionnement de cet outil.
+C.6.2 SUIVI DU RISQUE DE PROVISIONNEMENT ET CONTROLES
+A l'issue de l'inventaire au 31 décembre, des contrôles sont effectués sur le processus de provisionnement en normes françaises.
+Sur le périmètre Epargne et Retraite, plusieurs contrôles sont réalisés :
+Récurrence globale des provisions au niveau produit à partir des chiffres émis comptablement
+Déroulé de PM contrat par contrat : Vérification de la cohérence entre la PM clôture avec la PM ouverture et tous les mouvements gestion de l'année (rachats, arbitrage, sécurisation des plus-values, liquidation en rente, frais de gestion, prélèvements sociaux, participation aux bénéfices, ... )
+Recalcul des mouvements des traitements de fin d'année sur un panel de contrats
+Rapprochement entre les données gestion et les données comptables
+Sur le périmètre Retraite spécifiquement :
+· Vérification des provisions en phase de restitution
+· Cohérence entre les nouvelles rentes et le montant des capitaux constitutifs
+Sur le périmètre prévoyance
+Réalisation du calcul des provisions incapacité invalidité
+Vérification du provisionnement de chaque contrat du produit vie entière
+Les processus de calculs trimestriels sont en cours de mise en place. Il appartient à la fonction actuarielle de :
+· Valider les méthodologies, les modèles sous-jacents et les hypothèses retenues pour le calcul des provisions techniques ;
+" Comparer les meilleures estimations aux observations empiriques ;
+" Informer le Conseil d'administration / Direction Générale de la fiabilité et du caractère adéquat du calcul des provisions techniques.
+C.6.3 QUALITE DES DONNEES
+Les données utilisées dans le processus de souscription et de provisionnement respectent les principes de qualité des données définis dans la politique de qualité des données.
+Des contrôles sont mis en place sur les données utilisées pour les calculs des primes, sinistres et provisions.
+| 28
+C.7 Sous-traitance
+C.7.1 POLITIQUE DE SOUS-TRAITANCE
+La politique d'externalisation d'Areas Vie fixe le cadre général de fonctionnement applicable à la sous-traitance. Les principes et règles qu'elle instaure ont pour objectif de garantir la conformité des activités sous-traitées aux réglementations applicables et leur maitrise par Aréas Vie.
+La mise en œuvre de cette politique est pilotée par le comité externalisation.
+Toute entreprise d'assurance ou de réassurance, qui sous-traite ou se propose de sous-traiter des activités d'assurance ou de réassurance ou des fonctions à un prestataire de services, doit répondre à un certain nombre d'obligation établi par la Directive Solvabilité 2, tenir compte de l'impact de la sous-traitance sur son activité et mettre en place des dispositifs de reporting et de suivi.
+Sont considérées comme des activités ou fonctions opérationnelles importantes ou critiques, les fonctions clés et celles dont l'interruption, une fois externalisées, est susceptible d'avoir un impact significatif sur l'activité de l'entreprise, sur sa capacité à gérer efficacement les risques ou de remettre en cause les conditions de son agrément au regard de divers éléments (coût de l'activité externalisée ; impact financier, opérationnel et de réputation de l'entreprise en cas d'incapacité du prestataire de services d'accomplir sa prestation dans les délais impartis, difficulté de trouver un autre prestataire ou de reprendre l'activité en direct, capacité de l'entreprise à satisfaire aux exigences réglementaires en cas de problèmes avec le prestataire, pertes potentielles pour les assurés, souscripteurs ou bénéficiaires de contrats ou les entreprises réassurées en cas de défaillance du prestataire).
+Par ailleurs, Aréas Vie définit les processus de sélection des sous-traitants à mener préalablement à la conclusion d'un accord de sous-traitance, afin de répondre à un niveau de prudence en matière de vérification préalable du prestataire.
+Le prestataire de services s'engage à se conformer à toutes les dispositions législatives, exigences réglementaires et lignes directrices applicables, ainsi qu'aux politiques approuvées par Aréas Vie, et à coopérer avec l'autorité de contrôle en ce qui concerne les activités ou fonctions sous-traitées.
+Areas Vie en tient compte dans ses plans de continuité et planifie, si nécessaire, la manière dont la sous-traitance pourra être déléguée à un nouveau prestataire de service en cas de défaillance du prestataire.
+Aréas Vie demeure entièrement responsable de l'ensemble des fonctions externalisées. La société inclut, par conséquent, dans son système de gouvernance, un processus de suivi et de revue de la qualité du service fourni. Aréas Vie s'assure régulièrement du respect des accords de sous-traitance.
+Aucune sous-traitance d'une activité ou fonction opérationnelle importante ou critique n'est à signaler.
+C.7.2 SOUS-TRAITANCE DISTRIBUTION ET GESTION DE PRODUITS D'ASSURANCE
+Aréas Vie distribue ses produits d'assurance essentiellement par le canal d'intermédiaires d'assurance indépendants, agents généraux d'assurance et courtiers d'assurance, non-salariés d'Areas Vie.
+Ces intermédiaires exercent pour leur propre compte une activité de présentation d'opérations d'assurance, réglementée par le Code des assurances. En complément, Aréas Vie peut être amenée à déléguer à certains de ces intermédiaires des activités opérationnelles de souscription de contrats d'assurance.
+Cette sous-traitance est systématiquement matérialisée par un contrat conclu entre Areas Vie et les intermédiaires concernés. Cet accord est destiné à garantir la bonne exécution des missions, à superviser l'activité déléguée, à déterminer les pouvoirs confiés ainsi que les droits et obligations de chacune des parties.
+| 29
+L'exercice de ces délégations par les intermédiaires fait l'objet d'une analyse régulière par Areas Vie via ses services de contrôle, qui rapportent à un comité dédié.
+Les intermédiaires auxquels sont sous-traitées des tâches opérationnelles font l'objet d'une sélection de nature à s'assurer qu'ils satisfont, d'une part aux exigences réglementaires d'accès et d'exercice de l'activité, et d'autre part aux impératifs de gestion édictés par Aréas Vie.
+Cette délégation permet à Areas Vie de faire participer ses intermédiaires à la qualité du service rendu aux sociétaires, ces derniers bénéficiant ainsi d'une proximité et d'une réactivité proportionnée aux produits d'assurance concernés.
+En cas de nécessité (cessation d'activité, incapacité de l'intermédiaire à gérer, dysfonctionnement dans la gestion des tâches sous-traitées) et sous réserve le cas échéant du respect des préavis contractuels, l'activité sous-traitée peut- être reprise par Aréas Vie et être gérée en direct, sans que cela ne nuise à la prestation fournie aux sociétaires.
+Ces tâches opérationnelles de souscription, sous-traitées aux intermédiaires d'assurance ne constituent pas des fonctions ou activités importantes ou critiques.
+C.8 Evaluation du système de gouvernance
+Les responsables de fonctions clés agissent sous la responsabilité de la Direction Générale et ont facilement accès à l'ASMB compte tenu de la fréquence des séances de Conseil d'administration. Un accès régulier des responsables de fonctions clés aux comités d'audit, comité risques et réassurance et comité opérationnel du contrôle interne et conformité est par ailleurs prévu pour assurer une remontée de l'information et la formulation de recommandations en matière de gestion des risques et de contrôle interne.
+Les Administrateurs, comme les dirigeants effectifs et les représentants des fonctions clés ont des qualifications professionnelles, connaissances et expérience suffisantes pour permettre une gestion saine et prudente de la société.
+C.9 Autres informations
+Aréas Vie n'a pas d'autres informations à communiquer.
+| 30
+D. PROFIL DE RISQUE
+D.1 Risque de souscription
+D.1.1 PERIMETRE DU RISQUE
+Le risque de souscription d'Aréas Vie est évalué au travers du module de risque de la Formule Standard « Risque de souscription Vie ».
+Il est constitué des modules suivants.
+· Risque catastrophe : risque d'augmentation ponctuelle de la mortalité
+· Risque de frais : risque lié à la variation des frais de gestion des contrats d'assurance ou de réassurance
+· Risque de longévité : risque de diminution permanente de la mortalité
+· Risque de morbidité : risque d'accroissement de la sinistralite sur le périmètre des dommages corporels
+" Risque de mortalité : risque d'accroissement permanent de la mortalité
+" Risque de rachat : risque résultant d'une modification du comportement des assurés en matière de rachat de contrats
+· Risque de révision : risque de révision du niveau des rentes du fait d'un changement réglementaire ou de l'état de santé des assurés
+D.1.2 EXPOSITION AU RISQUE
+La Formule Standard apparaît adaptée à la bonne prise en compte des risques de souscription, au regard du profil de risque « classique » d'Aréas Vie.
+Le besoin en capital associé au risque de souscription d'Areas Vie à fin 2024 est de 65 millions d'euros.
+Le risque de souscription d'Aréas Vie est porté de manière significative par le risque de rachat (43 millions d'euros), bien qu'en baisse par rapport à 2023 (50 millions d'euros). Le risque catastrophe (17 millions d'euros) et le risque de longévité (20 millions d'euros) augmentent significativement par rapport à 2023 (respectivement 0,2 millions d'euros et 9 millions d'euros).
+L'effet de diversification des risques de souscription est de -32 millions d'euros.
+Le plan stratégique d'Aréas Vie n'anticipe pas d'évolution significative de la politique de souscription ou de la composition du portefeuille de passifs.
+D.1.3 CONCENTRATION
+Le portefeuille d'Areas Vie est réparti de manière homogène sur le territoire français, tant en termes de types de produits, que de nombre de contrats. Par conséquent, il n'y a pas de zone de concentration de risques particulière.
+Le plan stratégique d'Aréas Vie n'anticipe de modification significative sur ce périmètre.
+D.1.4 ATTENUATION DU RISQUE
+Sur le périmètre Prévoyance, les risques de souscription sont atténués par trois traités de réassurance en XS.
+| 31
+Sur le périmètre Epargne / Retraite, un traité en quote-part porté par Areas Dommages permet une mutualisation des risques avec la filiale historique d'Areas Assurances.
+Le plan stratégique d'Aréas Vie n'anticipe de modification significative sur ce traité.
+D.1.5 SENSIBILITE AU RISQUE
+Aréas Vie évalue la sensibilité de sa solvabilité au travers de scenarii de stress calibrés selon une période de retour décennale. Cette période de retour permet d'évaluer l'impact d'événements d'ampleur relativement importante et pouvant se matérialiser de manière plausible.
+Aréas Vie privilégie la réalisation de scenarii de stress combinés impactant plusieurs facteurs de risques de manière simultanée :
+· Augmentation de la longévité
+Augmentation des rachats
+Augmentation des frais
+Au 31 décembre 2024, aucun scénario de stress ne remet en cause la solvabilité de l'entreprise.
+D.2 Risque de marché
+D.2.1 PERIMETRE DU RISQUE
+Le risque de marché d'Aréas Vie est évalué au travers des modules de risque de la Formule Standard :
+· Risque actions : risque de baisse de la valeur des actions sur les marchés financiers ;
+· Risque de change : risque de hausse ou de baisse du taux de change des devises ;
+· Risque de concentration : risque de concentration des engagements du fait de d'un manque de diversification du portefeuille d'actifs ou d'une exposition importante au risque de défaut d'un émetteur de valeurs mobilières.
+· Risque de spread : risque d'écart des taux de crédit au taux sans risque ;
+· Risque de taux : risque de baisse ou de hausse des taux d'intérêts ;
+· Risque immobilier : risque de baisse de la valeur des biens immobiliers ;
+D.2.2 EXPOSITION AU RISQUE
+La Formule Standard apparaît adaptée à la bonne prise en compte des risques de marché, au regard du profil de risque « classique » d'Aréas Vie.
+Aréas Vie a procédé à une mise en transparence d'une part significative de ses investissements en OPC pour s'assurer que moins de 5% de ses actifs soient non transparisés. Le risque de marché d'Aréas Vie représente un besoin en capital global de 195 millions d'euros, qui se décompose de la manière suivante :
+Risque actions : 59 millions d'euros ;
+Risque de spread : 90 millions d'euros ;
+Risque immobilier : 40 millions d'euros.
+Risque de taux : 30 millions d'euros ;
+Risque de concentration : 29 millions d'euros ;
+Risque de change : 21 millions d'euros.
+| 32
+L'effet de diversification des risques marché est de -73 millions d'euros.
+D.2.3 CONCENTRATION
+Aréas Vie transmet des limites de concentration par émetteur aux sociétés de gestion. Par conséquent, le portefeuille d'actifs financiers est bien diversifié et il n'y a pas de zone de concentration de risques particulière.
+Le plan stratégique d'Aréas Vie n'anticipe pas de modification significative sur ce périmètre.
+D.2.4 ATTENUATION DU RISQUE
+Aréas Vie gère son portefeuille d'actifs financiers dans le respect du principe de la « personne prudente ».
+Pour l'ensemble de son portefeuille d'actifs, Aréas Vie n'investit que dans des actifs et instruments présentant des risques que la société peut identifier, mesurer, suivre, gérer, contrôler et déclarer de manière adéquate et prendre en compte de manière appropriée dans l'évaluation du besoin global de solvabilité.
+D.2.5 SENSIBILITE AU RISQUE
+Aréas Vie évalue la sensibilité de sa solvabilité au travers de scenarii de stress calibrés selon une période de retour décennale. Cette période de retour permet d'évaluer l'impact d'événements d'ampleur relativement importante et pouvant se matérialiser de manière plausible.
+Aréas Vie privilégie la réalisation de scenarii de stress combinés impactant plusieurs facteurs de risques de manière simultanée :
+· Baisse du niveau des taux d'intérêt sans risque ;
+· Perte de la valeur de marché des actions ;
+· Chute de l'immobilier ;
+Augmentation des spreads de crédit.
+Au 31 décembre 2024, aucun scénario de stress ne remet en cause la solvabilité de l'entreprise.
+D.3 Risque de crédit
+D.3.1 PERIMETRE DU RISQUE
+Le risque de défaut de contrepartie d'Areas Vie est évalué au travers du module de risque de défaut de la Formule Standard, qui est composé des sous-modules de risques suivants :
+· Risque de défaut de type 1 : il s'agit des risques associés aux créances de réassurance et liquidités financières, pour lesquels les contreparties sont identifiables ;
+· Risque de défaut de type 2 : il s'agit des risques analysés au global pour les « autres créances », avec une charge spécifique pour les créances sur intermédiaires dues depuis plus de 3 mois.
+| 33
+D.3.2 EXPOSITION AU RISQUE
+La Formule Standard apparaît adaptée à la bonne prise en compte du risque de défaut au regard du profil de risque « classique » d'Aréas Vie.
+Le risque de défaut de contrepartie d'Aréas Vie représente un besoin en capital global de 18 millions d'euros. Ce risque représente principalement les encours monétaires placés dans des fonds bancaires (type 1) ainsi que les avances sur police (type 2).
+Le plan stratégique d'Areas Vie n'anticipe pas d'évolution significative de l'exposition au défaut de contreparties.
+D.3.3 CONCENTRATION
+Aréas Vie diversifie ses contreparties afin d'éviter un risque de concentration. Il n'y a pas de zone de concentration de risques particulière.
+Le plan stratégique d'Aréas Vie n'anticipe de modification significative sur ce périmètre.
+D.3.4 ATTENUATION DU RISQUE
+Le risque de contrepartie lié aux avances sur police est limité et ne fait pas l'objet de mesures d'atténuation du risque particulières.
+Le plan stratégique d'Aréas Vie n'anticipe pas de modification significative sur ce périmètre.
+D.3.5 SENSIBILITE AU RISQUE
+Aréas Vie évalue la sensibilité de sa solvabilité au travers de scenarii de stress calibrés selon une période de retour décennale. Cette période de retour permet d'évaluer l'impact d'événements d'ampleur relativement importante et pouvant se matérialiser de manière plausible.
+Aréas Vie privilégie la réalisation de scenarii de stress combinés impactant plusieurs facteurs de risques de manière simultanée.
+Au 31 décembre 2024, aucun scénario de stress ne remet en cause la solvabilité de l'entreprise.
+D.4 Risque de liquidité
+D.4.1 PERIMETRE DU RISQUE
+Le risque de liquidité est le risque de réalisation de moins-values latentes qui surviendrait en cas d'insuffisance d'actifs liquides pour régler des montants de sinistres.
+D.4.2 EXPOSITION AU RISQUE
+Areas Vie met en place une procédure de projection des flux entrants et sortants sur un pas de temps mensuel, permettant de gérer le risque de liquidité. Le besoin en capital associé au risque de liquidité est donc considéré comme nul.
+| 34
+D.4.3 CONCENTRATION
+En matière de liquidité, le risque de concentration est sans objet.
+D.4.4 ATTENUATION DU RISQUE
+Alors que pour Aréas Dommages, l'analyse des entrées et sorties de liquidité est effectuée à horizon un an, pour Areas Vie, la Direction Comptable maintient une réserve de trésorerie suffisante pour faire face à un mois de rachat. Le surplus est placé dans les mandats de gestion.
+D.4.5 SENSIBILITE AU RISQUE
+Le risque de liquidité est maitrisé par une procédure de détection d'asymétrie entre les entrées et les sorties mais la sensibilité au risque de liquidité n'est pas quantifiée.
+D.5 Risque opérationnel
+D.5.1 PERIMETRE DU RISQUE
+Le risque opérationnel est défini comme le risque de perte résultant de carences ou de défaillances attribuables à des procédures et systèmes internes, des membres du personnel ou à des événements extérieurs.
+La cartographie suivante, établie en 2015, définit les principaux risques opérationnels auxquels Aréas Vie peut être exposée :
+" Humain : risques resultant de l'intervention humaine dans les activités
+o Risque de personne clé :unselected:
+o Risque de détournement à l'encaissement :unselected:
+o Risque lié au passage des ordres financiers :unselected:
+o Risque de conformité à la CNIL :unselected:
+o Risque de fraude :unselected:
+o Risque de blanchiment :unselected:
+o Risque sur le recrutement, etc. :unselected:
+Commercial : risques resultant de défauts dans les réseaux ou les forces de vente
+o Risque de défaut de conseil :unselected:
+o Risque de contrepartie sur le courtage :unselected:
+o Risque sur les règles de commissionnement :unselected:
+o Risque de production insuffisante au regard de la taille des équipes :unselected:
+o Risque sur le réseau :unselected:
+" Organisation : risques résultant de défauts dans l'organisation de l'entreprise et de ses procédures
+o Risque de reporting sur le courtage :unselected:
+o Risque sur les comptes d'intermédiaires :unselected:
+" Systèmes d'information :
+o Risque lié au logiciel comptable :unselected:
+o Risque lié au plan de continuité informatique :unselected:
+o Risque sur l'habilitation :unselected:
+o Risque de sécurité des données :unselected:
+| 35
+o Risque de maîtrise des applications
+o Risque de pérennité des applications, etc.
+" Logistique hors systèmes d'information : risques résultant de défauts dans un processus support hors SI et RH
+o Risque sur la sécurité physique du SI et Infrastructure
+o Risque sur le matériel informatique
+o Risque de transport de l'équipe de direction
+o Risque sur les locaux
+o Risque dans la délégation de la gestion immobilière
+o Risque sur la gestion des moyens généraux
+o Risque dans l'exploitation du restaurant
+" Relation avec les tiers : risques résultant de défaillance de qualité dans les relations avec les tiers
+o Risque de sécurité du réseau
+o Risque d'intrusion dans le SI
+o Risque sur la couverture RC des dirigeants
+o Risque lié au recours à des prestataires de gestion
+o Risque lié aux réseaux de réparateurs
+o Risque sur la gestion des tempêtes et des catastrophes naturelles
+o Risque de conformité sur la confidentialité des données
+o Risque lié aux partenaires délégués
+o Risque de contractualisation insuffisante avec les délégataires.
+D.5.2 EXPOSITION AU RISQUE
+Le risque opérationnel d'Areas Vie est évalué à partir de la Formule Standard et représente un besoin en capital de 5 millions d'euros.
+Le risque opérationnel ne connait pas de variation significative par rapport à l'exercice précédent.
+Le plan stratégique d'Areas Vie n'anticipe pas d'évolution significative qui impacterait la composition du risque opérationnel d'Aréas Vie.
+D.5.3 CONCENTRATION
+Il n'y a pas de zone de concentration de risques particulière.
+Le plan stratégique d'Aréas Vie n'anticipe de modification significative sur ce périmètre.
+D.5.4 ATTENUATION DU RISQUE
+Un dispositif de contrôle interne est mis en place afin de limiter les risques opérationnels. Il se traduit par l'élaboration de tableaux de bord et d'indicateurs de pilotage, avec notamment :
+· Un reporting sur le niveau d'exposition aux risques opérationnels ;
+· Un suivi des plans d'actions sur les déficiences de contrôle interne identifiées ; et
+" L'élaboration du plan de contrôle permanent (synthèse des points de contrôle clefs et mise en place de plans de tests sur la conception et l'efficacité des contrôles).
+Le plan stratégique d'Areas Vie n'anticipe de modification significative sur ce périmètre.
+| 36 :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected:
+D.5.5 SENSIBILITE AU RISQUE
+La sensibilité du ratio de solvabilité d'Areas Vie au risque opérationnel n'est pas mesurée.
+D.6 Autres risques importants
+Aréas Vie n'est pas concerné par d'autres risques importants.
+D.7 Autres informations
+Aucune autre information n'est nécessaire sur les profils de risque.
+| 37
+E. VALORISATION A DES FINS DE SOLVABILITÉ
+Le principe général de valorisation du bilan prudentiel défini dans la directive Solvabilité 2 est celui d'une évaluation économique des actifs et des passifs.
+Les textes de référence utilisés par Aréas Vie pour décrire les principes de valorisation des actifs et autres passifs dans le bilan prudentiel Solvabilité 2 sont les suivants :
+" La directive Solvabilité 2 du 25 novembre 2009 (2009/138/CE) et la directive Omnibus 2 du 16 avril 2014 (2014/51/UE) ;
+· Le règlement délégué (UE) 2015/35 de la Commission du 10 octobre 2014 complétant la directive 2009/138/CE du Parlement européen et du Conseil sur l'accès aux activités de l'assurance et de la réassurance et leur exercice (Solvabilité 2) et sur le Règlement délégué 2019/981 publié le 18 juin 2019
+· modifiant le précédent règlement ;
+· La documentation EIOPA, à savoir les guidelines (orientations) qui complètent les références précédentes ;
+" Les normes IFRS ;
+· Les normes françaises.
+Aucun écart significatif par rapport à ces spécifications n'est à notifier. Certains éléments ont été estimés par des méthodes simplifiées, en application du principe de proportionnalité.
+Le bilan prudentiel d'Aréas Vie a été établi à partir d'une transposition du bilan en normes comptables françaises actuelles et de l'application de méthodes de valorisation des actifs pour les actifs conformes avec le référentiel Solvabilité 2.
+Le QRT SE.02.01, correspondant au bilan prudentiel d'AREAS VIE est joint ci-dessous. Il permet de visualiser les différentes méthodes d'évaluations retenues sur les différents actifs, et décrit dans les paragraphes suivants.
+| 38
+ÉTAT SE.02.01.16 - BILAN SOLVABILITÉ 2 (avec complément BCE)
+ACTIFS
+Valeur Solvabilité II
+Valeur comptes statutaires
+Ajustement de reclassification
+C0010
+C0020
+EC0021
+Goodwill
+R0010
+-
+-
+-
+Frais d'acquisition différés
+R0020
+-
+-
+-
+Immobilisations incorporelles
+R0030
+-
+1 774 765
+-
+Actifs d'impôts différés
+R0040
+-
+-
+-
+Excédent du régime de retraite
+R0050
+-
+-
+-
+Immobilisations corporelles détenues pour usage propre
+R0060
+3 076 033
+1 555 757
+-
+Investissements (autres qu'actifs en représentation de contrats en unités de compte et indexés)
+R0070
+1 255 519 387
+1 197 843 290
+-
+Biens immobiliers (autres que détenus pour usage propre)
+R0080
+192 127 670
+174 195 174
+-
+Détentions dans des entreprises liées, y compris participations
+R0090
+12 547 287
+124 000
+-
+Actions
+R0100
+24 762 280
+25 287 700
+-
+Actions - cotées
+R0110
+-
+-
+-
+Actions - non cotées
+R0120
+24 762 280
+25 287 700
+-
+Obligations
+R0130
+798 769 255
+783 666 737
+-
+Obligations d'État
+R0140
+49 592 807
+49 155 085
+-
+Obligations d'entreprise
+R0150
+743 964 723
+729 586 814
+-
+Titres structurés
+R0160
+5 211 724
+4 924 837
+-
+Titres garantis
+R0170
+-
+-
+-
+Organismes de placement collectif
+R0180
+227 312 895
+214 569 680
+-
+Produits dérivés
+R0190
+-
+-
+-
+Dépôts autres que les équivalents de trésorerie
+R0200
+-
+-
+-
+Autres investissements
+R0210
+-
+-
+-
+Actifs en représentation de contrats en unités de compte et indexés
+R0220
+398 446 406
+398 446 406
+-
+Prêts et prêts hypothécaires
+R0230
+13 829 486
+13 829 486
+-
+Avances sur police
+R0240
+13 829 486
+13 829 486
+-
+Prêts et prêts hypothécaires aux particuliers
+R0250
+-
+-
+-
+Autres prêts et prêts hypothécaires
+R0260
+-
+-
+-
+Montants recouvrables au titre des contrats de réassurance
+R0270
+87 611 917
+109 098 212
+-
+Non-vie et santé similaire à la non-vie
+R0280
+-
+-
+-
+Non-vie hors santé
+R0290
+-
+-
+-
+Santé similaire à la non-vie
+R0300
+-
+-
+-
+Vie et santé similaire à la vie, hors santé, UC et indexés
+R0310
+87 611 917
+109 098 212
+-
+Santé similaire à la vie
+R0320
+-
+-
+-
+Vie hors santé, UC et indexés
+R0330
+87 611 917
+109 098 212
+-
+Vie UC et indexés
+R0340
+-
+-
+-
+Dépôts auprès des cédantes
+R0350
+-
+-
+-
+Créances nées d'opérations d'assurance et montants à recevoir d'intermédiaires
+R0360
+70 062
+70 062
+-
+Créances nées d'opérations de réassurance
+R0370
+227 318
+227 318
+-
+Autres créances (hors assurance)
+R0380
+9 732 884
+9 732 884
+-
+Actions propres auto-détenues (directement)
+R0390
+-
+-
+-
+Éléments de fonds propres ou fonds initial appelé(s), mais non encore payé(s)
+R0400
+-
+-
+-
+Trésorerie et équivalents de trésorerie
+R0410
+15 170 386
+15 170 386
+-
+Autres actifs non mentionnés dans les postes ci-dessus
+R0420
+210 587
+210 587
+-
+Total de l'actif
+R0500
+1 783 894 467
+1 747 959 154
+-
+39
+ÉTAT SE.02.01.16 - BILAN SOLVABILITÉ 2 (avec complément BCE)
+PASSIFS
+Valeur Solvabilité II
+Valeur comptes statutaires
+Ajustement de reclassification
+C0010
+C0020
+EC0021
+Provisions techniques non-vie
+R0510
+-
+-
+-
+Provisions techniques non-vie (hors santé)
+R0520
+-
+-
+-
+Provisions techniques calculées comme un tout
+R0530
+-
+-
+-
+Meilleure estimation
+R0540
+-
+-
+-
+Marge de risque
+R0550
+-
+-
+-
+Provisions techniques santé (similaire à la non-vie)
+R0560
+-
+-
+-
+Provisions techniques calculées comme un tout
+R0570
+-
+-
+-
+Meilleure estimation
+R0580
+-
+-
+-
+Marge de risque
+R0590
+-
+-
+-
+Provisions techniques vie (hors UC et indexés)
+R0600
+950 822 564
+1 104 547 567
+-
+Provisions techniques santé (similaire à la vie)
+R0610
+-
+-
+-
+Provisions techniques calculées comme un tout
+R0620
+-
+-
+-
+Meilleure estimation
+R0630
+-
+-
+-
+Marge de risque
+R0640
+-
+-
+-
+Provisions techniques vie (hors santé, UC et indexés)
+R0650
+950 822 564
+1 104 547 567
+-
+Provisions techniques calculées comme un tout
+R0660
+-
+-
+-
+Meilleure estimation
+R0670
+934 608 318
+-
+-
+Marge de risque
+R0680
+16 214 246
+-
+-
+Provisions techniques UC et indexés
+R0690
+395 591 426
+398 419 832
+-
+Provisions techniques calculées comme un tout
+R0700
+-
+-
+-
+Meilleure estimation
+R0710
+388 274 590
+-
+-
+Marge de risque
+R0720
+7 316 837
+-
+-
+Autres provisions techniques
+R0730
+-
+-
+-
+Passifs éventuels
+R0740
+-
+-
+-
+Provisions autres que les provisions techniques
+R0750
+565 200
+565 200
+-
+Provisions pour retraite
+R0760
+-
+-
+-
+Dépôts des réassureurs
+R0770
+90 002 621
+109 031 512
+-
+Passifs d'impôts différés
+R0780
+46 099 145
+-
+-
+Produits dérivés
+R0790
+-
+-
+-
+Dettes envers des établissements de crédit
+R0800
+-
+-
+-
+Dettes vis-à-vis d'établissements de crédit résidents
+ER0801
+-
+-
+-
+Dettes vis-à-vis d'établissements de crédit résidant dans un pays tiers de la zone euro
+ER0802
+-
+-
+-
+Dettes vis-à-vis d'établissements de crédit résidant dans le reste du monde
+ER0803
+-
+-
+-
+Dettes financières autres que celles envers les établissements de crédit
+R0810
+-
+-
+-
+Dettes vis-à-vis d'entités autres que des établissements de crédit
+ER0811
+-
+-
+-
+Dettes vis-à-vis d'entités, autres que des établissements de crédit, résidant dans le même pays
+ER0812
+-
+-
+-
+Dettes vis-à-vis d'entités, autres que des établissements de crédit, résidant dans un pays tiers de la zone euro
+ER0813
+-
+-
+-
+Dettes vis-à-vis d'entités, autres que des établissements de crédit, résidant dans le reste du monde
+ER0814
+-
+-
+-
+Autres passifs financiers (titres de créance émis)
+ER0815
+-
+-
+-
+Dettes nées d'opérations d'assurance et montants dus aux intermédiaires
+R0820
+447 172
+447 172
+-
+Dettes nées d'opérations de réassurance
+R0830
+444 416
+444 416
+-
+Autres dettes (hors assurance)
+R0840
+6 110 357
+6 110 357
+-
+Passifs subordonnés
+R0850
+11 524 490
+11 524 490
+-
+Passifs subordonnés non inclus dans les fonds propres de base
+R0860
+-
+-
+-
+Passifs subordonnés inclus dans les fonds propres de base
+R0870
+11 524 490
+11 524 490
+-
+Autres dettes non mentionnées dans les postes ci-dessus
+R0880
+2 167 335
+2 167 335
+-
+Total du passif
+R0900
+1 503 774 728
+1 633 257 882
+-
+Excédent d'actif sur passif
+R1000
+280 119 738
+114 701 273
+-
+40
+E.1 Actifs
+E.1.1 METHODES DE VALORISATION
+Les méthodes de valorisation utilisées pour les actifs sont synthétisées dans le tableau ci-dessous :
+Thème
+Principes applicables Bilan statutaire
+Principes applicables Bilan prudentiel
+Application Aréas Vie Bilan prudentiel
+Actifs Corporels
+Comptabilisation au coût d'acquisition + amortissement
+Juste valeur selon les principes IAS 36 et IAS39
+Valeur Bilan statutaire
+Incorporels
+Comptabilisation au coût d'acquisition + amortissement
+Non reconnu
+Valorisé à zéro
+Immobilier
+Comptabilisation au coût d'acquisition + PDD
+Juste valeur selon les principes IAS40
+Utilisation de la valeur de réalisation (issue d'expertises quinquennales)
+Participation
+Comptabilisation au coût d'acquisition
+Juste valeur en adéquation avec les principes S2
+Valeur Bilan statutaire
+Placements
+Comptabilisation au coût d'acquisition + PDD +/- surcote décote
+Juste valeur selon les principes IAS39
+Valeur de marché
+Créances pour dépôts espèces auprès des cédantes
+Comptabilisation du nominal
+Juste valeur selon les principes IAS39
+Valeur Bilan statutaire
+Créances
+Comptabilisation du nominal + dépréciations
+Juste valeur selon les principes IAS39
+Valeur Bilan statutaire
+Les éléments intangibles (actifs incorporels et frais d'acquisition reportés) sont considérés comme nuls dans le bilan Solvabilité 2.
+Les placements financiers ont été revalorisés à leur valeur de marché. Les coupons courus et les surcotes/décotes ont été classés dans le même agrégat que les actifs auxquels ils étaient associés.
+Les placements immobiliers sont inscrits à la valeur de réalisation résultant des expertises quinquennales actualisées.
+Par mesure de simplification, les autres actifs ont été repris en valeur comptable.
+E.1.2 AJUSTEMENT SOLVABILITEIT LES ACTIFS
+Le passage à la juste valeur diminue le volume de l'actif du bilan prudentiel de 31,8 millions d'euros en comparaison avec le bilan statutaire en normes française.
+Les ajustements Solvabilité 2 sur les actifs, se décomposent comme suit :
+Montant en milliers d'euros
+Bilan simplifié - Actifs
+Bilan prudentiel
+Bilan statutaire
+Variation
+Actifs incorporels et frais d'acquisition reportés
+0
+1 775
+-1 775
+Immobilisations corporelles pour usage propre
+3 076
+1 556
+1 520
+Placements
+1 255 519
+1 197 843
+57 676
+Actifs en représentation de contrats en UC ou indexés
+398 446
+398 446
+-
+Provisions techniques cédées
+87 612
+109 098
+- 21 486
+Autres actifs
+39 241
+39 241
+-
+Total Actifs
+1 783 894
+1 747 959
+35 935
+| 41
+Les plus-values latentes sur les placements financiers s'élèvent à 57,7 millions d'euros, un niveau en forte hausse par rapport à 2023 (21,5 millions). Cette hausse s'explique par la baisse des taux d'intérêts se traduisant par des revalorisations obligataires.
+Un écart de -21,5 millions d'euros apparait entre les provisions techniques cédées dans le bilan prudentiel et le bilan statutaire. Cet écart s'explique par l'effet de la courbe des taux sur les flux futurs.
+Le poste « Autres actifs »> est principalement composé des avances sur polices (13,8 millions d'euros), de la trésorerie et équivalents de trésorerie (15,2 millions d'euros) et des créances (10,0 millions d'euros).
+E.1.3 LES PLACEMENTS FINANCIERS
+Les placements financiers, hors actifs en représentation de contrats en UC ou indexés, s'élèvent à 1 255,5 millions d'euros et représentent le poste le plus important du total actif du bilan prudentiel.
+Ces placements se composent :
+· d'obligations et fonds de dettes, principalement d'entreprises pour un montant de 894,9 millions d'euros,
+· d'actions cotées, (exclusivement en OPCVM) pour un montant de 144,9 millions d'euros,
+· d'immobilier, physique ou détenu via des fonds, pour un montant de 171,5 millions d'euros,
+de fonds d'investissement monétaire de court terme et avances pour un montant 44,2 millions d'euros.
+E.2 Provisions techniques
+E.2.1 COURBE DES TAUX SANS RISQUE
+La courbe des taux sans risque retenue dans le cadre de l'évaluation du Best Estimate (BE) pour l'exercice 2024 est la courbe fournie par l'EIOPA au 31 décembre 2024 avec prise en compte du Volatility Adjustment.
+E.2.2 PERIMETRE DE MODELISATION
+Les provisions techniques brutes euro d'Areas Vie s'élèvent à 1 104,5 millions d'euros dans le bilan statutaire. Elles se composent des éléments suivants :
+· Provisions techniques d'assurance Vie : 1 033,2 millions d'euros ;
+· Provision pour participations aux excédents (PPE) : 55,1 millions d'euros ;
+· Provisions pour sinistres vie : 15,7 millions d'euros ;
+· Autre provisions techniques vie : 0,5 millions d'euros.
+Le QRT ci-après détaille les provisions techniques Best Estimate augmentées de la marge pour risque (« risk margin »).
+| 42
+S.12.01.01.01
+Life and Health SLT Technical Provisions
+Insurance with profit participation
+Index-linked and unit- linked insurance
+Index-linked and unit- linked insurance
+Other life insurance
+Other life insurance
+Total (Life other than health insurance, incl. Unit- Linked)
+Contracts with options or guarantees
+Contracts with options or guarantees
+C0020
+C0030
+C0050
+C0060
+C0080
+C0150
+Technical provisions calculated as a whole
+R0010
+Total Recoverables from reinsurance/SPV and Finite Re after the
+R0020
+Technical provisions calculated as a sum of BE and RM
+Best Estimate
+Gross Best Estimate
+R0030
+754 740 583
+388 274 590
+179 867 735
+1 322 882 908
+Total recoverables from reinsurance/SPV and Finite Re before the adjustment for expected losses due to counterparty default
+R0040
+87 647 471
+87 647 471
+Total recoverables from reinsurance/SPV and Finite Re before the adjustment for expected losses due to counterparty default
+Total Recoverables Trom remsurance/SPV
+Recoverables from reinsurance (except SPV and Finite Re) before adjustment for expected losses
+R0050
+Recoverables from SPV before adjustment for expected losses
+R0060
+Recoverables from Finite Re before adjustment for expected losses
+R0070
+and Finite Re after the adjustment for expected losses due to counterparty default
+R0080
+87 611 917
+87 611 917
+Best estimate minus recoverables from reinsurance/SPV and Finite Re
+R0090
+667 128 665
+388 274 590
+179 867 735
+1 235 270 990
+Risk Margin
+R0100
+14 839 140
+7 316 837
+1 375 106
+23 531 083
+Amount of the
+Technical Provisions calculated as a whole
+R0110
+Best estimate
+R0120
+transitional
+Risk margin
+R0130
+Technical provisions - total
+R0200
+769 579 723
+395 591 426
+181 242 841
+1 346 413 990
+Technical provisions minus recoverables from reinsurance/SPV and
+R0210
+681 967 805
+395 591 426
+181 242 841
+1 258 802 073
+Best Estimate of products with a surrender option
+R0220
+572 808 004
+303 450 115
+876 258 119
+Gross BE for Cash flow
+Cash out- flows
+Future guaranteed and discretionary
+R0230
+52 439 488
+Future guaranteed and
+Future guaranteed benefits
+R0240
+discretionary benefits
+Future discretionary benefits
+R0250
+52 439 488
+Future expenses and other cash out-flows
+R0260
+Cash in- flows
+Future premiums
+R0270
+Other cash in-flows
+R0280
+Percentage of gross Best Estimate calculated using approximations
+R0290
+Surrender value
+R0300
+230 850 052
+103 299 152
+334 149 203
+Best estimate subject to transitional of the interest rate
+R0310
+Technical provisions without transitional on interest rate
+R0320
+Best estimate subject to volatility adjustment
+R0330
+754 740 583
+388 274 590
+179 867 735
+1 322 882 908
+Technical provisions without volatility adjustment and without
+R0340
+777 898 891
+395 783 608
+182 350 492
+1 356 032 990
+Best estimate subject to matching adjustment
+R0350
+Technical provisions without matching adjustment and without all
+R0360
+Expected profits included in future premiums (EPIFP)
+R0370
+| 43
+Le bilan d'Aréas Vie est composé de passifs de natures différentes. On distingue les passifs d'épargne, de retraite et de prévoyance. Parmi les passifs de retraite, on distingue les phases de constitution et les phases de service.
+Pour plus de précisions, le tableau ci-dessous présente les natures de passifs d'assurance modélisés par cantons (en euros).
+Canton
+Type Passif
+Code ALM
+Constitution / Service
+PM au 31/12/2024
+Fond Général
+Epargne
+A 39
+156 595
+BEM
+-
+CE-PE
+114 882 906
+IFC
+1 953 988
+MAESTRO
+1 426 008
+MS_EU
+499 302 820
+MS_UC
+311 679 907
+Prévoyance
+GOB*
+4 141 812
+TD*
+Service
+2 527 824
+Retraite
+ARELIA_EU
+Constitution
+43 265 168
+ARELIA_RVI
+Service
+20 599 322
+ARELIA_UC
+Constitution
+15 437 311
+RCE
+Constitution
+15 099 584
+RCE_RVI
+Service
+8 767 282
+RE*
+Service
+-
+RS2
+Constitution
+-
+RS2_RVI
+Service
+1 577 611
+RVI
+Service
+-
+PERI
+Retraite
+PERI_EU
+Constitution
+14 128 697
+PERI_RVI
+Service
+4 435 022
+PERI_UC
+Constitution
+3 154 307
+PERP
+Retraite
+PERP_EU
+Constitution
+22 823 452
+PERP_RVI
+Service
+4 161 281
+PERP_UC
+Constitution
+9 124 244
+PERin
+Retraite
+PERin_EU
+Constitution
+91 019 721
+PERin_RVI
+Service
+90 710
+PERin_UC
+Constitution
+57 601 973
+RCA
+Retraite
+RCA
+Constitution
+12 898 846
+Service
+11 064 259
+RCR
+Retraite
+RCR
+Constitution
+59 899 884
+Service
+45 767 983
+Les passifs retraite « RCA > et « RCR > sont des régimes en points relevant de l'article L441 du Code des assurances.
+La modélisation de ces deux cantons a évolué en 2019 afin de tenir pleinement compte de la valeur de service et de sa gestion au cours de la projection en fonction de l'équilibre du régime. Sont modélisées la provision mathématique théorique, la provision technique spéciale, la provision technique spéciale de recouvrement, et la provision technique spéciale de retournement.
+| 44
+E.2.3 .3 DESCRIPTION DE L'OUTIL ALM ET RESULTAT
+Aréas Vie a développé un outil de projection de son activité (« Outil ALM »), qui permet une modélisation de l'ensemble des actifs et passifs selon 3 approches : comptable (comptes de bilan et de résultat), technique (politique de revalorisation ... ) et financière (allocation d'actifs, évolution des marchés ... ).
+Dans le cadre du pilier 1 de Solvabilité 2, cet outil est utilisé pour calculer les provisions techniques selon la méthode « Best Estimate » et pour estimer la capacité d'absorption des pertes par les provisions techniques dans chaque scénario de choc (marché et souscription). Les flux de passif correspondent aux flux de décès, arrérages, rachats, coût administratifs, coût de prestations, frais de gestion, rétrocessions (UC), commissions agent et prélèvements sociaux.
+En scénario central, l'actualisation des flux de prestations par la courbe des taux sans risque centrale conduit à un Best Estimate EUR brut de 935 millions d'euros, et un Best Estimate EUR cédé de 88 millions d'euros.
+L'actualisation des flux de passifs en Unité de Compte (UC) conduit à un Best Estimate UC de 388 millions d'euros.
+Provisions techniques - Aréas Vie
+LOB
+Provisions comptables
+BE Brut
+BE Cédé
+Marge de risque
+Health Insurance
+Life insurance with profit participation
+1 104 548
+934 608
+87 612
+16 214
+Index-linked and unit-linked insurance
+398 420
+388 275
+0
+7 317
+Other life-insurance
+Annuities stemming from non-life insurance contracts and relating to health insurance obligations
+Annuities stemming from non-life insurance contracts and relating to insurance obligations other than health insurance obligations
+Health reinsurance
+Life reinsurance
+TOTAL
+1 502 967
+1 322 883
+87 612
+23 531
+E.2.3.1 Décisions futures de gestion
+Dans l'environnement Solvabilité 2, des décisions futures de gestion sont modélisées pour le calcul des provisions techniques (Best Estimate) et du SCR. Les hypothèses relatives aux futures décisions de gestion doivent être réalistes. Conformément aux articles 23 et 24 du Règlement Délégué 2015/35 de la commission du 10 octobre 2014 le plan de décisions futures de gestion est validé par le Conseil d'Administration.
+Ces décisions futures de gestions sont brièvement décrites ci-dessous :
+Stratégie d'investissement :
+En fin d'année, Aréas Vie réalise des investissements ou des cessions de façon à respecter l'allocation cible qu'elle s'est fixée.
+· Politique de participation aux bénéfices :
+En fin d'année, Areas Vie sert le taux cible. Cette étape a lieu avant la réalisation des investissements et cessions permettant de respecter l'allocation cible. Ces cessions provoquent une modification des produits financiers et donc du taux de PB minimum.
+Si le rendement brut final après cessions diffère du taux cible précédemment calculé, des reprises ou dotations de la PPB peuvent être réalisées.
+Gestion des regimes L441 :
+Le modèle prévoit le pilotage du régime par le pilotage de la valeur de service.
+| 45
+E.2.4 CALCUL DE LA MARGE DE RISQUE
+La marge pour risque représente l'estimation du coût de mobilisation du capital de solvabilité requis lié à la détention des passifs. Elle est calculée de façon simplifiée, conformément à l'article 58 du Règlement délégué, selon la méthode alternative nº3 communiquée par l'ACPR dans sa « Notice Solvabilité II - Provisions techniques (y compris mesure branches longues) - 2015 ».
+Ainsi, on a :
+RM = CoC * (1 +r) SCRru * Duration
+Avec :
+" CoC : le coût du capital
+" SCRru le capital de solvabilité requis de référence
+" Duration la duration des engagements de passif
+· r le taux d'intérêt sans risque de base.
+Le capital de solvabilité requis de référence correspond au SCR du 31/12/2024 ajusté :
+" Le risque de marche est considéré comme nul
+" Le risque de contrepartie est calculé uniquement sur les contreparties d'assurance ou de réassurance
+" Le risque de souscription est considéré dans sa totalité
+" Le risque opérationnel est considere dans sa totalité
+" L'absorption des pertes par les impôts différés n'est pas prise en compte.
+Finalement, on obtient une marge de risque de 24 millions d'euros au total.
+E.2.5 IMPACT DES MESURES BRANCHES LONGUES
+Parmi les mesures branches longues (LTG « long term guarantees »>), le régime prudentiel Solvabilité 2 prévoit des mesures transitoires sur les provisions et sur les taux, qui ne sont pas appliquées sur Areas Vie. En revanche, Areas Vie applique la correction pour volatilité sur la courbe des taux d'intérêt sans risque. Cette mesure a pour objectif de réduire la volatilité de la solvabilité des assureurs lors de variations de court-terme des spreads (entraînant une variation de valeur des actifs obligataires).
+S.22.01.01.01
+Impact of long term guarantees measures and transitionals
+Amount with Long Term Guarantee measures and transitionals
+Impact of the LTG measures and transitionals (Step-by-step approach)
+Without transitional on technical provisions
+Without transitional on interest rate
+Without volatility adjustment and without other transitional
+Impact of volatility adjustment set to zero
+Without matching adjustment and without all the others
+Impact of all LTG measures and transitionals
+C0010
+C0020
+C0040
+C0060
+C0070
+C0080
+C0100
+Technical provisions
+R0010
+1 346 413 990,17
+1 346 413 990,17
+1 346 413 990,17
+1 356 032 989,90
+9 618 999,73
+1 356 032 989,90
+9 618 999,73
+Basic own funds
+R0020
+277 354 427,52
+277 354 427,52
+277 354 427,52
+271 758 330,66
+-5 596 096,86
+271 758 330,66
+-5 596 096,86
+Basic
+Excess of assets over liabilities
+R0030
+276 779 550,05
+276 779 550,05
+276 779 550,05
+269 747 343,55
+-7 032 206,50
+269 747 343,55
+-7 032 206,50
+own
+Restricted own funds due to ring-fencing and matching
+R0040
+10 949 612,70
+10 949 612,70
+10 949 612,70
+9 513 503,06
+-1 436 109,64
+9 513 503,06
+-1 436 109,64
+funds
+Eligible own funds to meet Solvency
+R0050
+277 354 427,52
+277 354 427,52
+277 354 427,52
+271 758 330,66
+-5 596 096,86
+271 758 330,66
+-5 596 096,86
+Eligible
+Tier 1
+R0060
+277 354 427,52
+277 354 427,52
+277 354 427,52
+271 758 330,66
+-5 596 096,86
+271 758 330,66
+-5 596 096,86
+own
+Tier 2
+R0070
+0,00
+0,00
+0,00
+0,00
+0,00
+funds to
+Tier 3
+R0080
+0,00
+0,00
+0,00
+0,00
+0,00
+Solvency Capital Requirement
+R0090
+134 933 668,55
+134 933 668,55
+134 933 668,55
+136 758 532,76
+1 824 864,21
+136 758 532,76
+1 824 864,21
+Eligible own funds to meet Minimum
+R0100
+277 354 427,52
+277 354 427,52
+277 354 427,52
+271 758 330,66
+-5 596 096,86
+271 758 330,66
+-5 596 096,86
+Minimum Capital Requirement
+R0110
+33 733 417,14
+33 733 417,14
+33 733 417,14
+34 189 633,19
+456 216,05
+34 189 633,19
+456 216,05
+Solvency Capital Requirement ratio
+R0120
+205,5%
+205,5%
+205,5%
+198,7%
+-6,8%
+198,7%
+-6,8%
+Minimum Capital Requirement ratio
+R0130
+822,2%
+822,2%
+822,2%
+794,9%
+-27,3%
+794,9%
+-27,3%
+| 46
+E.3 Autres passifs
+E.3.1 METHODES DE VALORISATION
+Le tableau ci-dessous synthétise les différences entre les méthodes de valorisation dans les normes comptables françaises et dans Solvabilité 2 pour les principaux éléments du passif autres que les provisions techniques.
+Thème
+Principes applicables Bilan statutaire
+Principes applicables Bilan prudentiel
+Application Aréas Dommages Bilan prudentiel
+Impôt Différés
+Non comptabilisé
+Comptabilisé selon les principes d'IAS 12
+Calcul avec un taux unique sur la différence de valorisation entre la valeur fiscale et la valeur du bilan prudentiel, en considérant les déficits fiscaux reportables
+Dettes pour dépôts espèces des réassureurs
+Comptabilisation du nominal
+Juste valeur selon les principes IAS39
+Valeur Bilan statutaire
+Dettes et Trésorerie
+Comptabilisation du nominal
+Juste valeur selon les principes IAS39
+Valeur Bilan statutaire
+Dettes subordonnées
+Comptabilisation du nominal
+Juste valeur hors effet du risque de crédit propre
+Valeur Bilan statutaire
+E.3.2 AJUSTEMENT SOLVABILITÉ 2 SUR LES AUTRES PASSIFS
+Le passage à la juste valeur augmente le volume du passif du bilan prudentiel de 27,1 millions d'euros en comparaison avec le bilan statutaire en normes françaises.
+Les ajustements Solvabilité 2 sur les autres passifs, se décomposent comme suit :
+Bilan simplifié - Autres passifs en K€
+Bilan prudentiel
+Bilan statutaire
+Variation
+Impôts différés passifs
+46 099
+-
+46 099
+Dettes diverses
+9 169
+9 169
+-
+Autres éléments du passif
+90 568
+109 597
+-19 029
+Total Autres Passifs
+145 836
+118 766
+27 070
+E.3.3 IMPÔTS DIFFERES
+Aréas Vie comptabilise des impôts différés dans le bilan prudentiel selon les principes de la norme IAS 12.
+Les impôts différés sont déterminés à partir des derniers taux d'imposition connus selon la méthode du report variable, sur la base des décalages temporaires entre la valeur prudentielles et la valeur fiscale des actifs et passifs.
+A ce titre, les impôts différés du bilan prudentiel ont été calculés en tenant compte du taux d'impôt sur les sociétés de 25% (hors contribution additionnelle), applicable depuis 2022.
+Au 31 décembre 2024, Aréas Vie est en situation d'impôts différés passifs dans son bilan prudentiel.
+Il n'existe pas de périmètre d'intégration fiscale au niveau du Groupe.
+| 47
+E.4 Méthodes alternatives de valorisation
+Aucune méthode de valorisation alternative n'a été utilisée par Aréas Vie.
+E.5 Autres informations
+Aréas Vie n'est pas concerné par d'autres informations à communiquer.
+| 48
+F.GESTION DES FONDS PROPRES
+F.1 Fonds propres
+Les fonds propres prudentiels correspondent à la différence entre les actifs et passifs du bilan valorisés selon les principes Solvabilité 2, augmentée des emprunts subordonnées et diminuée des fonds propres relatifs aux fonds cantonnées qui excèdent le SCR notionnel du canton et des dividendes prévisionnels.
+Ils sont classés en trois catégories, dit « Tier », en fonction de leur qualité évaluée selon leur liquidité pour absorber les pertes, de leur degré de subordination et de leur durée (déterminée ou indéterminée), le Tier 1 traduisant la meilleure qualité.
+Par ailleurs, des limites quantitatives sont imposées pour déterminer le montant des fonds propres éligibles en couverture des exigences en capital, soient le SCR (capital de solvabilité requis) et le MCR (minimum de capital requis).
+F.1.1 STRUCTURE ET MONTANT DES FONDS PROPRES DISPONIBLES
+Les fonds propres disponibles Solvabilité 2 s'élèvent à 280,2 millions d'euros au 31 décembre 2024. Le tableau ci- dessous détaille la structure des fonds propres par nature et par Tier pour l'exercice 2024.
+Total
+Tier 1- unrestricted
+Tier 1 - rezricted
+Tier 2
+Tier 3
+CO010
+C0020
+COOOO
+C0040
+COO50
+Basic own funds before deduction for participations in other financial sector as foreseen in article 68 of Delegated Regulation 2015/35
+Ordinary share capital ( gross of own shares)
+R0010
+0
+Share premium account related to ordinary share capital
+RO030
+0.
+initial funds, members' contributions or the equivalent basic own - fund item for mutual and mutual-type undert atings
+RO040
+2 644 982
+2 644 982
+Subordinated mutual member accounts
+80050
+0
+Surplus funds
+ROOT0
+27 120572
+27 120 572
+Preference shares
+RO090
+0
+Share premium account related to preference shares
+80110
+0
+Reconciliation reserve
+R0130
+238 904 800
+238 904 800
+Subordinated liabilities
+R0140
+11 534 490
+11 524 490
+An amount equal to the value of net deferred tax assets
+R0160
+0
+Other own fund items approved by the supervisory authority as basic cun fundis not specified above
+20180
+0
+Own funds from the financial statements that should not be represented by the reconciliation reserve and do not meet the criteria to be classified as Solvency Il own funds
+Own funds from the financial statements that should not be represented by the reconciliation reserve and do not meet the criteria to be classified as Solvency Il own funds
+R0220
+Deductions
+Deductions for participations in financial and credi: ing itutions
+A0230
+Total basic own funds after deductions
+R0290
+280 194 844
+268 670 354
+11524490
+Ancillary own funds
+Unpaid and uncalled ordinary share capital callable on demand
+ROS00
+Unpaid and uncalled initial funds, members contributions or the equivalent basic own fund item for mutual and mutual . type undertakings, callable on demand
+RO310
+Unpaid and uncalled preference shares callable on demand
+A0920
+A legally binding commitment to subscribe and pay for subordinated liabilities on demand
+R0330
+Letters of credit and guarantees under Article 96/2) of the Directive 2009/138/EC
+ROS40
+Letters of credit and guarantees other than under Article 96(2) of the Directive 2009/138/EC
+RO350
+Supplementary members calls under first subparagraph of Article 96,3) of the Directive 2009/138/EC
+RO350
+Supplementary members calls- cther than under first subparagraph of Article 96(3) of the Directive 2009/138/EC
+R0370
+Other ancillary own funds
+ROS90
+Total ancillary own funds
+R0400
+Available and eligible own funds
+Total available own funds to meet the SCR
+RO500
+280 194 844
+268 670 354
+11 524 490
+Total available own funds to meet the MCR
+R0530
+280 194 844
+268 670 354
+11 524 490
+Total eligible own funds to meet the SCR
+R0540
+280 194 844
+268 670 354
+11524 490
+Total eligible own funds to meet the MCR
+A0550
+280 194 844
+268 670354
+11524490
+SCR
+RO580
+134 933 669
+MCR
+R0600
+33 733 417
+Ratio of Elip ble own funds to SCR
+RO620
+207,654%
+Ratio of Eligible own funds to MCR
+ROGLO
+890.6%
+49
+S.23.01.01.02 Reconciliation reserve
+C0060
+Reconciliation reserve
+Excess of assets over liabilities
+R0700
+280 119 738
+Own shares (held directly and indirectly)
+R0710
+Foreseeable dividends, distributions and charges
+R0720
+Other basic own fund items
+R0730
+29 765 554
+Adjustment for restricted own fund items in respect of matching adjustment portfolios and ring fenced funds
+R0740
+11 449 384
+Reconciliation reserve
+R0760
+238 904 800
+Expected profits
+Expected profits included in future premiums (EPIFP) Life business
+R0770
+Non-life business
+R0780
+Total Expected profits included in future premiums (EPIFP)
+R0790
+Les éléments de fonds propres disponibles S2 d'Areas Vie répondent aux critères de classification Tier 1 et Tier 1 restreint. Ils se composent de :
+2,6 millions d'euros de fonds d'établissement et droits d'adhésion mutualiste qui, compte tenu de leurs caractéristiques sont classés en Tier 1 non restreint ;
+238,9 millions d'euros de réserve de réconciliation.
+Les éléments qui la composent répondent aux critères de classification en Tier 1 non restreint. Il s'agit :
+o Des réserves statutaires (report à nouveau, résultat non distribuable de l'exercice et aux autres réserves légales) s'élevant à 112,1 millions d'euros à fin 2024 ;
+o Des marges futures provenant de la mise en valeur économique des actifs et passifs, nets d'impôts différés. Celles-ci représentent 126,8 millions au 31 décembre 2024.
+27,1 millions d'euros de participation aux bénéfices éligible à l'arrêté du 24 décembre 2019 relatif aux fonds excédentaires en assurance vie.
+Celle-ci est calculée selon le calcul simplifié reposant sur l'hypothèse que la PPB admissible ne serait intégrée aux provisions mathématiques qu'au bout de 8 ans. Les flux de trésorerie sont ensuite supposés versés à la même cadence que les sorties de trésorerie.
+11,5 millions d'euros de dettes subordonnées à durée indéterminée, classifiées en Tier 1 restreint.
+Les dettes subordonnées sont constituées de titres participatifs, dont l'émission a été faite en deux tranches :
+Tranche
+Date d'émission
+Taux d'intérêt
+Durée
+Montant souscrit (en KEUR)
+1
+31/12/1992
+Taux d'intérêt au titre d'un exercice N égale au maximum entre : " le taux plafond de 110% du TME · le taux de référence de l'emprunt composé d'une part fixe (80% du TME) et d'une part variable égale au rapport suivant :
+Indéterminée
+1 524
+Part variable de N = 1,2 Résultat financier(*) des exercices N - 4 à N - 1 100 × Résultat financier(*) de la période de référence 1998 à 1991
+2
+31/12/2006
+Modalités de rémunération identiques à la 1ère tranche, à l'exception de la période référence au dénominateur du calcul de la rémunération de la part variable qui passe varie (2002 à 2005).
+Indéterminée
+10 000
+TOTAL
+11 524
+(*) : Somme des produits financiers nets de frais, augmentés des plus ou moins values réalisées sur cessions d'éléments d'actifs hors ajustement des valeurs affectées aux assurances à capital variable.
+Le remboursement total ou partiel des titres participatifs est à l'initiative du Conseil d'administration, à l'expiration d'un délai au moins égal à sept ans.
+| 50 :unselected: :unselected: :selected:
+F.1.2 FONDS PROPRES ÉLIGIBLES À LA COUVERTURE DES EXIGENCES DE CAPITAL
+F.1.2.1 Seuils applicables aux fonds propres disponibles par Tier
+Le montant des fonds propres éligibles à la couverture des exigences de capital est obtenu après application aux fonds propres disponibles S2 des règles limitation par Tier ci-dessous.
+Eléments de fonds propres
+Couverture du MCR
+Couverture du SCR
+Tier 1
+Capital, fonds d'établissement, droits d'adhésion Primes d'émission de capital social Réserve de réconciliation
+> 80%
+> 50%
+Tier 1 restreint
+Emprunt subordonnés à durée indéterminée (transitoire ou hors transitoire) Fonds social complémentaire
+Max 20% du total Tier 1
+Max 20% du total Tier 1
+Tier 2
+Emprunt subordonnés à durée déterminée et indéterminée (hors transitoire)
+< 20%
+< 50%
+T2 + T3 < 50%
+Tier 3
+Impôts différés actifs nets Emprunt subordonnés à durée déterminée
+Non éligible
+≤ 15%
+F.1.2.2 Fonds propres éligibles à la couverture du SCR et du MCR
+En application des règles de limitations par Tier, les fonds propres disponibles S2 d'Areas Vie sont intégralement éligibles à la couverture du SCR et MCR.
+Ils s'élèvent à 280,2 millions d'euros à fin 2024, contre 225,2 millions d'euros à fin 2023, soit une hausse de +24,4%.
+300 000
+11 524
+250 000
+27 121
+11.524
+200 000
+39.942
+150 000
+241 550
+100 000
+173 720
+50 000
+-
+2 023
+2 024
+Niveau 1 non restreint hors PPB :selected: Dont PPB éligible
+Niveau 1 restreint
+| 51
+F.2 Capital de Solvabilité requis et minimum de capital requis (SCR et MCR)
+F.2.1 ANALYSE DU SCR
+Au 31 décembre 2024, les ratios de solvabilité d'Aréas Vie sont les suivants :
+Montant en millions d'euros
+SCR
+MCR
+Fonds propres éligibles
+280
+280
+Capital réglementaire
+135
+34
+Ratio de couverture
+207,7%
+830,6%
+" Analyse du ratio S2 au 31/12/2024
+Décomposition du SCR 2024 (M€)
+18
+-52
+65
+5
+-52
+-45
+196
+227
+135
+SCR Marché
+SCR Souscription Non-Vie
+SCR Souscription Santé
+SCR Souscription Vie
+SCR Défaut de contrepartie
+Diversification
+BSCR
+SCR Opérationnel
+Adj TP
+Adj ID
+SCR
+Le SCR de marché apparait comme étant celui contribuant le plus au SCR final. Net des effets de diversification, c'est le risque spread qui contribue le plus au risque de marché.
+Le montant de SCR exigible est de 135 millions d'euros (après ajustement des provisions techniques et des impôts différés).
+| 52
+s.25.01.01.01 Basic Solvency Capital Requirement
+Net solvency capital requirement
+Gross solvency capital requirement
+Allocation from adjustments due to RFF and Matching adjustments portfolios
+C0030
+C0040
+C0050
+Market risk
+R0010
+153 954 488
+195 587 011
+0,000
+Counterparty default risk
+R0020
+17 665 488
+17 665 488
+0,000
+Life underwriting risk
+R0030
+37 274 634
+65 427 228
+0,000
+Health underwriting risk
+R0040
+0
+0
+0,000
+Non-life underwriting risk
+R0050
+0
+0
+0,000
+Diversification
+R0060
+-35 799 756
+-51 631 493
+Intangible asset risk
+R0070
+0
+0
+Basic Solvency Capital Requirem
+R0100
+173 094 854
+227 048 234
+S.25.01.01.02
+Calculation of Solvency Capital Requirement
+Value
+C0100
+Adjustment due to RFF/MAP nSCR aggregation
+R0120
+0
+Operational risk
+R0130
+5 302 812
+Loss-absorbing capacity of technical provisions
+R0140
+-52 439 488
+Loss-absorbing capacity of deferred taxes
+R0150
+-44 977 890
+Capital requirement for business operated in accordance with Art. 4
+R0160
+0
+Solvency Capital Requirement excluding capital add-on
+R0200
+134 933 669
+Capital add-ons already set
+R0210
+0
+Capital add-ons already set
+of which, capital add-ons already set - Article 37 (1) Type a
+R0211
+of which, capital add-ons already set - Article 37 (1) Type b
+R0212
+of which, capital add-ons already set - Article 37 (1) Type c
+R0213
+of which, capital add-ons already set - Article 37 (1) Type d
+R0214
+Solvency capital requirement
+R0220
+134 933 669
+Other information on SCR
+Capital requirement for duration- based equity risk sub-module
+R0400
+0
+Total amount of Notional Solvency Capital Requirements for remaining part
+R0410
+107 559 359
+Total amount of Notional Solvency Capital Requirements for ring- fenced funds
+R0420
+38 837 953
+Total amount of Notional Solvency Capital Requirements for matching adjustment portfolios
+R0430
+Diversification effects due to RFF nSCR aggregation for article 304
+R0440
+Method used to calculate the adjustment due to RFF/MAP nSCR aggregation
+R0450
+Net future discretionary benefits
+R0460
+52 439 488
+53
+s.25.01.01.03 Approach to tax rate
+Yes/No
+C0109
+Approach based on average tax
+R0590
+2 - No
+s.25.01.01.04
+Calculation of loss absorbing capacity of deferred taxes
+Before the shock
+After the shock
+C0110
+C0120
+DTA
+R0600
+0
+0
+DTA
+DTA carry forward
+R0610
+0
+0
+DTA due to deductible temporary
+R0620
+0
+0
+DTL
+R0630
+44 985 749
+0
+s.25.01.01.05
+Calculation of loss absorbing capacity of deferred taxes
+LAC DT
+C0130
+LAC DT
+R0640
+-44 977 890
+LAC DT
+LAC DT justified by reversion of de
+R0650
+-44 977 890
+LAC DT justified by reference to pr
+R0660
+0
+LAC DT justified by carry back, curr
+R0670
+0
+LAC DT justified by carry back, futu
+R0680
+0
+Maximum LAC DT
+R0690
+-44 977 890
+" Analyse de variation par rapport au 31/12/2023
+Le ratio de couverture est en légère baisse par rapport au 31/12/2023, passant de 236 % à 208 %. Cette évolution s'explique par la hausse du SCR.
+A l'actif, les investissement obligataires et actions, et la hausse des valeurs de marché obligataires entraîne une hausse de l'exposition aux risques de marché. Ainsi, le SCR Marché augmente de 46 millions d'euros par rapport à 2023 (196 millions d'euros contre 150 millions d'euros).
+L'ajustement des provisions techniques est en hausse de 14,5 millions d'euros, et l'ajustement pour impôts différés augmente de 8,8 millions d'euros.
+Le ratio de couverture en normes Solvabilité 2 s'établit donc, au 31 décembre 2024 à 205,5%.
+Décomposition du SCR Marché 2024 (M€)
+29
+-73
+90
+40
+196
+59
+29
+Taux
+Actions
+Immobilier
+Spread
+Concentration
+Diversification
+Marché
+| 54
+Décomposition du SCR Souscription Vie 2024 (M€)
+17
+-32
+43
+12
+65
+20
+5
+Mortalité
+Longévité
+Incap/Inval
+Dépenses
+Révision
+Rachat
+Catastrophe
+Diversification
+Souscription
+F.2.2 TRANSPARISATION DES ACTIFS
+Traitement des OPCVM
+Aréas Vie a procédé à une mise en transparence d'une part significative de ses investissements en OPC pour s'assurer que moins de 5% de ses actifs soient non transparisés.
+Traitement des actifs structures
+Les produits structures sont traités en actions types 2.
+Traitement des SCI
+Les SCI détenues en portefeuille par Aréas vie sont valorisées sur base de leur Actif Net Réévalué (ANR) tenant compte de la valorisation en valeur d'expertise des immeubles enregistrés dans leurs actifs.
+F.2.3 AJUSTEMENTS POUR IMPÔTS DIFFERES
+Aréas Vie est en situation d'Impôts Différés Passif (IDP). L'ajustement pour impôts différés retenu pour cet exercice est borné à l'IDP du bilan.
+.2.4 ANALYSE DU MCR
+Le Minimum de Capital Requis (MCR) est le montant des fonds propres de base éligibles en deçà duquel l'entreprise d'assurance ou de réassurance court un risque inacceptable en poursuivant son activité.
+Il doit être couvert à chaque instant et être déclaré trimestriellement.
+Le calcul du MCR se décompose en trois étapes :
+" Le « MCR linéaire > est obtenue comme une combinaison linéaire des provisions techniques par type de contrats et des capitaux sous risque. Il s'élève à 28,2 millions d'euros pour Aréas Vie.
+" Le « MCR combiné » applique au résultat du calcul précédent des contraintes minimum (25% du SCR) et maximum (45% du SCR).
+" Le MCR est enfin obtenu après comparaison à une valeur plancher, dite « MCR absolu » (AMCR) de 3,7 millions d'euros.
+Le MCR est ainsi égal au maximum entre le AMCR et le MCR combiné, soit 33,7 millions d'euros.
+| 55
+S.28.01.01.03
+Linear formula component for life insurance and reinsurance obligations
+C0040
+MCR_ Result
+R0200
+28 215 722,64
+S.28.01.01.04 Total capital at risk for all life (re)insurance obligations
+Net (of reinsurance/SPV) best estimate and TP calculated as a whole
+Net (of reinsurance/SPV) total capital at risk
+C0050
+C0060
+Obligations with profit participation - guaranteed benefits
+R0210
+641 774 195,58
+Obligations with profit participation - future discretionary benefits
+R0220
+52 439 487,99
+Index-linked and unit-linked insurance obligations
+R0230
+388 274 589,67
+Other life (re)insurance and health (re)insurance obligations
+R0240
+179 867 735,42
+Total capital at risk for all life (re)insurance obligations
+R0250
+1 002 551 723,98
+S.28.01.01.05 Overall MCR calculation
+C0070
+Linear MCR
+R0300
+28 215 722,64
+SCR
+R0310
+134 933 668,55
+MCR cap
+R0320
+60 720 150,85
+MCR floor
+R0330
+33 733 417,14
+Combined MCR
+R0340
+33 733 417,14
+Absolute floor of the MCR
+R0350
+3 700 000,00
+Minimum Capital Requirement
+R0400
+33 733 417,14
+F.3 Utilisation du sous-module « risque sur actions »> fondé sur la durée dans le calcul du capital de solvabilité requis
+Aréas Vie n'est pas concernée par cette utilisation dans le calcul de solvabilité requis.
+F.4 Différences entre la formule standard et le module interne
+Aréas Vie n'est pas concernée par ces différences.
+F.5 Non-respect du minimum de capital requis et non-respect du capital de solvabilité requis
+Aréas Vie n'est pas concernée par le non-respect du minimum de capital requis et par le non-respect du capital de solvabilité requis.
+F.6 Autres informations
+Aréas Vie n'est pas concernée par ce paragraphe.
+| 56
+AREAS assurances
+47, rue de Miromesnil 75380 Paris Cedex 08 Tél. : 01 40 17 65 00 - www.areas.fr Areas Dommages
+Nº Siren : 775 670 466
+Areas Vie Nº Siren : 353 408 644
+Sociétés d'assurance mutuelles à cotisations fixes Entreprises régies par le Code des assurances
