@@ -12,7 +12,13 @@ En 2024, Aréas Vie a enregistré un chiffre d'affaires brut de 118,8 millions d
 
 ### Provisionnement
 
-Les provisions techniques brutes d'Aréas Vie s'élèvent à 1 104,5 millions d'euros en normes comptables françaises, contre 1 322,9 millions d'euros en normes Solvabilité II. La meilleure estimation (Best Estimate) est de 935 millions d'euros pour les passifs en euros et de 388 millions d'euros pour les passifs en unités de compte (UC). La marge de risque est calculée à 24 millions d'euros, selon une méthode simplifiée basée sur le coût du capital (CoC). Les provisions techniques incluent des passifs d'épargne, de retraite et de prévoyance, avec une segmentation par type de contrat et phase (constitution ou service). Les passifs retraite RCA et RCR, relevant de l'article L441 du Code des Assurances, sont modélisés pour tenir compte de leur équilibre et gestion.
+Les provisions techniques brutes d'Aréas Vie s'élèvent à 1 104,5 millions d'euros en normes comptables françaises, 
+contre 1 322,9 millions d'euros en normes Solvabilité II. La meilleure estimation (Best Estimate) est de 
+935 millions d'euros pour les passifs en euros et de 388 millions d'euros pour les passifs en unités de compte
+(UC). La marge de risque est calculée à 24 millions d'euros, selon une méthode simplifiée basée sur le coût
+du capital (CoC). Les provisions techniques incluent des passifs d'épargne, de retraite et de prévoyance, 
+avec une segmentation par type de contrat et phase (constitution ou service). Les passifs retraite RCA et RCR, 
+relevant de l'article L441 du Code des Assurances, sont modélisés pour tenir compte de leur équilibre et gestion.
 
 ---
 

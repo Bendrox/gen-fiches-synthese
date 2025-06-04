@@ -8,7 +8,13 @@ En 2024, le chiffre d'affaires brut d'Aréas Vie s'élève à 118,8 millions d'e
 
 ### Provisionnement
 
-Les provisions techniques brutes en normes françaises s'élèvent à 1 104,5 millions d'euros, comprenant 1 033,2 millions d'euros pour les provisions d'assurance vie, 55,1 millions d'euros pour la provision pour participations aux excédents (PPE), et 15,7 millions d'euros pour les provisions pour sinistres vie. En normes Solvabilité II, les provisions techniques totales atteignent 1 346,4 millions d'euros, dont 1 322,9 millions d'euros de Best Estimate (BE) et 23,5 millions d'euros de marge de risque. La PPE est dotée de 3,3 millions d'euros en 2024, générant une baisse du résultat financier au profit des rendements futurs des assurés.
+Les provisions techniques brutes en normes françaises s'élèvent à 1 104,5 millions d'euros,
+comprenant 1 033,2 millions d'euros pour les provisions d'assurance vie, 55,1 millions d'euros pour 
+la provision pour participations aux excédents (PPE), et 15,7 millions d'euros pour les provisions pour 
+sinistres vie. En normes Solvabilité II, les provisions techniques totales atteignent 1 346,4 millions d'euros,
+dont 1 322,9 millions d'euros de Best Estimate (BE) et 23,5 millions d'euros de marge de risque. 
+La PPE est dotée de 3,3 millions d'euros en 2024, générant une baisse du résultat financier au profit 
+des rendements futurs des assurés.
 
 ### Solvabilité
 
