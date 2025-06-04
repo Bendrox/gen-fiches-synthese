@@ -1,7 +1,7 @@
 # LLM_SFCR_exploit_Langchain_Azure
 
 ## Objectif:  
-Exploitater les remises narratives réglementaire (SFCR - Rapport sur la solvabilité et la situation financière) pour produire une fiche d'analyse des organismes d'assurance structurée en plusieurs axes: 
+Exploiter les remises narratives réglementaire (SFCR - Rapport sur la solvabilité et la situation financière) pour produire une fiche d'analyse des organismes d'assurance structurée en plusieurs axes: 
 
 - Présentation de l'assureur (histoire, secteurs d'activités, pays présents)
 - Résultat (chiffre d'affaire, résultat d'exploitation, résultat financier, résultat net...)
@@ -27,6 +27,5 @@ Les données sont dans des rapports réglementaires (entre 30 et 80 pages) qui c
 
 ##  To do : 
 - Essayer d'autres types d'architectures.
-- Amélioration de l'extraction de données notamment via l'exploitation des tableaux dans les rapports et les graphiques. 
 - rajouter comparatif N vs N-1
   
